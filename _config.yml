@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prajjwal Bhargava"
 title_separator          : "-"
 name                     : &name "Prajjwal"
-description              : &description "neural network"
+description              : &description "Undergrad student, CS"
 url                      : https://prajjwal1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prajjwal1/prajjwal1.github.io"
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Prajjwal"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "another nn.Sequential(), really far from convergence"
   location         : "High Dim abstract space"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.co.in/citations?user=zTq103EAAAAJ&hl=en"
+  email            : "prajjwalin@pm.me"
   researchgate     : 
   uri              :
   bitbucket        :
