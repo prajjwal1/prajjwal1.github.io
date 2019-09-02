@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://prajjwal1.github.io/images/profile.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://prajjwal1.github.io/images/profile.jpg?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
 * Undergraduate Student in CS
