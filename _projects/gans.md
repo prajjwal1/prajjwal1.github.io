@@ -3,8 +3,8 @@ title: "GANs"
 collection: projects
 permalink: /projects/gans
 excerpt: ''
-date: 20-08-2018
-venue: 'arXiv'
 ---
 
-WGANs
+Project URL: https://github.com/prajjwal1/gans
+
+- Wasserstein GANs for achieving nash equillibrium and dealing with mode collapse

@@ -1,10 +1,11 @@
 ---
-title: "Transformers"
+title: "Transformer Models"
 collection: projects
 permalink: /projects/transformers
 excerpt: ''
-date: 20-08-2018
-venue: 'Github'
 ---
 
-WGANs
+Project URL: https://github.com/prajjwal1/transformers-nlp
+
+- Implementation of Transformer for NMT
+- Working on improved Visual QA with different transformer architectures
