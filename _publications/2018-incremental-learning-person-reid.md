@@ -2,11 +2,9 @@
 title: "Incremental Learning in Person Re-Identification"
 collection: publications
 permalink: /publication/2018-incremental-learning-person-reid
-excerpt: ''
 date: 20-08-2018
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1808.06281'
-citation: ''
 ---
 
 Code can be found here: https://github.com/prajjwal1/person-reid-incremental
