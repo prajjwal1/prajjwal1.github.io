@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-101180150-2"
 
 
 # Site Author
@@ -184,6 +184,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  blogs:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -229,7 +232,15 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+  # _blogs
+  - scope:
+      path: ""
+      type: blogs
+    values:
+      layout: single
       author_profile: true
       share: true
 

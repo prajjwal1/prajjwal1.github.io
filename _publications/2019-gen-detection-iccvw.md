@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2019-gen-detection-iccvw
 excerpt: ''
 date: 01-09-2019
-venue: 'ICCV workshop 2019'
-paperurl: ''
+venue: 'ICCV workshop'
+#paperurl: ''
 ---
 
-This paper under publishing process by IEEE CVF.
+This paper is under publishing process by IEEE CVF.
