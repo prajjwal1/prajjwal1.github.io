@@ -8,4 +8,9 @@ venue: 'ICCV workshop'
 #paperurl: ''
 ---
 
-This paper is under publishing process by IEEE CVF.
+You can find the paper [here](https://arxiv.org/abs/1909.13080). Code can be found [here](https://github.com/prajjwal1/autonomous-object-detection). 
+
+This paper has been accepted at ICCV workshop (AutoNUE) 2019.
+
+If you find this work useful in your research, consider citing it,
+
