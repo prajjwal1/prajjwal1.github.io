@@ -10,8 +10,7 @@ This PPT is not detailed and barely covers the method. Please refer to the paper
 
 Here are some pictures:
 
-<p align="center">
-  <img src="https://github.com/prajjwal1/prajjwal1.github.io/blob/master/images/me_poster_iccvw2019.jpg" width="350" title="hover text">
-  <img src="https://github.com/prajjwal1/prajjwal1.github.io/blob/master/images/me_present_iccvw2019.jpg" width="350" alt="accessibility text">
-  <img src="https://github.com/prajjwal1/prajjwal1.github.io/blob/master/images/poster_iccvw2019.jpg" width="350" alt="accessibility text">
-</p>
+
+![pic1](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/images/me_poster_iccvw2019.jpg "ICCV 2019 Poster session")
+![pic2](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/images/me_present_iccvw2019.jpg "ICCV 2019 Poster session")
+![pic3](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/images/poster_iccvw2019.jpg "ICCV 2019 Poster session")
