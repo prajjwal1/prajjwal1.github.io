@@ -5,6 +5,7 @@ permalink: /publication/2019-gen-detection-iccvw
 excerpt: ''
 date: 01-09-2019
 venue: 'ICCV workshop'
+<!-- citation: 'Prajjwal Bhargava <i>International Conference on Computer Vision 2019 Workshops </i> <b>ICCVW 2019</b>. -->'
 #paperurl: ''
 ---
 Abstract:
