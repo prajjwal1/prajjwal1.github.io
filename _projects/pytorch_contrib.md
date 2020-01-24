@@ -1,5 +1,5 @@
 ---
-title: "Pytorch constributions"
+title: "Pytorch contributions"
 collection: projects
 permalink: /projects/pytorch
 excerpt: ''
