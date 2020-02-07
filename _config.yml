@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Prajjwal Bhargava"
 title_separator          : "-"
-name                     : &name "Prajjwal"
-description              : &description "Undergrad student, CS"
-url                      : https://prajjwal1.github.io 
+name                     : &name "Prajjwal Bhargava"
+description              : &description "Independent Deep Learning Researcher; Undergrad"
+url                      : http://127.0.0.1:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "prajjwal1/prajjwal1.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : 
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-101180150-2"
+    tracking_id          : UA-101180150-2
 
 
 # Site Author
 author:
-  name             : "Prajjwal"
+  name             : "Prajjwal Bhargava"
   avatar           : "profile.jpg"
   bio              : "another nn.Sequential(), really far from convergence"
-  location         : "High Dim abstract space"
+  location         : "High Dimensional Latent Space"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=zTq103EAAAAJ&hl=en"
   email            : "removethisifyouarehuman-prajjwalin@pm.me"
-  researchgate     : 
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-7315-548X"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : ""
   wikipedia        :
 
 
@@ -175,21 +175,19 @@ kramdown:
 
 # Collections
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-  blogs:
-    output: true
-    permalink: /:collection/:path/
 
-
-# Defaults
 defaults:
   # _posts
   - scope:
@@ -209,6 +207,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -218,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -232,15 +239,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: single
-      author_profile: true
-      share: true
-  # _blogs
-  - scope:
-      path: ""
-      type: blogs
-    values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
@@ -254,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Calcutta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -272,13 +271,38 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
+
+# HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:

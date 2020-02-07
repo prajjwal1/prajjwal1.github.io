@@ -1,16 +1,21 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.co.in/citations?user=zTq103EAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
+<br>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>[On Generalization of Detection Models for Unconstrained Environments](https://prajjwal1.github.io/publications/GenDetectionIccvw19)</b> <br> 
+Prajjwal Bhargava <br>
+<i>International Conference on Computer Vision Workshop</i>. <b>ICCVW 2019</b>.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Incremental Learning in Person Re-Identification](http://prajjwal1.github.io/publications/IncrementalPersonReid)</b> <br> 
+Prajjwal Bhargava, <br>
+<b>arXiv preprint</b>.
+
+
+
+
+
+[\* denotes equal contribution]

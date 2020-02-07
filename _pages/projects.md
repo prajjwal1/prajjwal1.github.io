@@ -5,8 +5,5 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[autonomous-object-detection](http://127.0.0.1:4000/projects/AutoObjDet)</b> <br> 
+Prajjwal Bhargava <br>
