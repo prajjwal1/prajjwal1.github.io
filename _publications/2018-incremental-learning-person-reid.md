@@ -3,8 +3,8 @@ title: "Incremental Learning in Person Re-Identification"
 collection: publications
 permalink: /publication/2018-incremental-learning-person-reid
 date: 20-08-2018
-venue: 'CoRR'
-paperurl: ''
+venue: 'arXiv Preprint'
+<!-- citation: 'Prajjwal Bhargava <i>International Conference on Computer Vision 2019 Workshops </i> <b>ICCVW 2019</b>. -->'
 ---
 
 ### Abstract
