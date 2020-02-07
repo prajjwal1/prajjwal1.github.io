@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://prajjwal1.github.io/publication/IncrementalPersonReid</loc>
+<loc>https://prajjwal1.github.io/projects/autoobjdet</loc>
+<lastmod>2019-08-02T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://prajjwal1.github.io/projects/incrementalpersonreid</loc>
+<lastmod>2019-08-02T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://prajjwal1.github.io/publications/IncrementalPersonReid</loc>
 <lastmod>2018-08-20T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>https://prajjwal1.github.io/publication/GenDetectionIccvw19</loc>
+<loc>https://prajjwal1.github.io/publications/GenDetectionIccvw19</loc>
 <lastmod>2019-09-01T00:00:00+05:30</lastmod>
 </url>
 <url>

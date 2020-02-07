@@ -1,7 +1,7 @@
 ---
 title: "Incremental Learning in Person Re-Identification"
 collection: publications
-permalink: /publication/IncrementalPersonReid
+permalink: /publications/IncrementalPersonReid
 date: 20-08-2018
 venue: 'arXiv Preprint'
 <!-- citation: 'Prajjwal Bhargava <i>International Conference on Computer Vision 2019 Workshops </i> <b>ICCVW 2019</b>. -->'

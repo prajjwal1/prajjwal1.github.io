@@ -1,7 +1,7 @@
 ---
 title: "On Generalization of Detection Models for Unconstrained Environments"
 collection: publications
-permalink: /publication/GenDetectionIccvw19
+permalink: /publications/GenDetectionIccvw19
 excerpt: 'hello'
 date: 01-09-2019
 venue: 'ICCV workshop'
