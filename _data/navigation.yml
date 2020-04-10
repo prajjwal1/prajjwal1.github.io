@@ -6,12 +6,10 @@ main:
   - title: "Talks"
     url: /talks/       
         
-  - title: "Blog Posts"
-    url: /blogs/
+  - title: "Blog"
+    url: https://prajjwal1.github.io/blog/
     
   - title: "Projects"
     url: /projects/
 
-  - title: "CV"
-    url: /cv/
     
