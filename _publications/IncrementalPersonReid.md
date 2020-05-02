@@ -4,7 +4,8 @@ collection: publications
 permalink: /publications/IncrementalPersonReid
 date: 20-08-2018
 venue: 'arXiv Preprint'
-<!-- citation: 'Prajjwal Bhargava <i>International Conference on Computer Vision 2019 Workshops </i> <b>ICCVW 2019</b>. -->'
+author_profile: false
+<!-- citation: 'Prajjwal Bhargava <i>arXiv preprint</i>-->'
 ---
 
 ### Abstract

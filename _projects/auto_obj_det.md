@@ -3,6 +3,7 @@ title: "Autonomous Object Detection"
 collection: projects
 permalink: /projects/auto_obj_det
 date: 2019-08-02
+author_profile: false
 ---
 
 This project initially started as a code base for this [hackathon](https://www.machinehack.com/course/making-autonomous-vehicles-safer-for-humans-hackathon-by-intel/leaderboard). This is a winning entry (team B) on the leaderboard. It later was transformed into a common project for object detection for autonomous driving. It later was also used for ICCVW 2019 (AutoNUE) [paper](https://arxiv.org/abs/1909.13080). The code is publicly available at this [Github URL](https://github.com/prajjwal1/autonomous-object-detection).

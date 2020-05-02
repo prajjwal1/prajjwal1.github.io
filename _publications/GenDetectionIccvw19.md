@@ -2,9 +2,9 @@
 title: "On Generalization of Detection Models for Unconstrained Environments"
 collection: publications
 permalink: /publications/GenDetectionIccvw19
-excerpt: 'hello'
 date: 01-09-2019
 venue: 'ICCV workshop'
+author_profile: false
 <!-- citation: 'Prajjwal Bhargava <i>International Conference on Computer Vision 2019 Workshops </i> <b>ICCVW 2019</b>. -->'
 #paperurl: ''
 ---

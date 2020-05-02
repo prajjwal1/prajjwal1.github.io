@@ -3,8 +3,9 @@ title: "Adaptive Transformers for Learning Multimodal Representations"
 collection: publications
 permalink: /publications/adaptive_tfmr_acl_srw_2020
 date: 17-04-2020
-venue: 'ACL SRW 2020'
-<!-- citation: 'Prajjwal Bhargava <i>Association for Computational Linguistics 2020 (SRW) </i> <b>ACL SRW 202-</b>. -->'
+venue: 'ACL SRW'
+author_profile: false
+<!-- citation: 'Prajjwal Bhargava <i>Association for Computational Linguistics 2020 (SRW) </i> <b>ACL SRW 2020</b>. -->'
 ---
 
 ### Abstract
