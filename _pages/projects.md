@@ -4,6 +4,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-This page will be updated soon. 
+<b>[incremental-person-reid](../projects/adaptive_transformer.md)</b> <br> 
+<b>[incremental-person-reid](../projects/pytorch_contrib)</b> <br> 
 <b>[autonomous-object-detection](../projects/autoobjdet)</b> <br> 
 <b>[incremental-person-reid](../projects/incrementalpersonreid)</b> <br> 
+
