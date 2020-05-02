@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Object Detection"
 collection: projects
-permalink: /projects/incrementalpersonreid
+permalink: /projects/incremental_person_reid
 date: 2019-08-02
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Object Detection"
 collection: projects
-permalink: /projects/autoobjdet
+permalink: /projects/auto_obj_det
 date: 2019-08-02
 ---
 
