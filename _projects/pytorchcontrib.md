@@ -1,7 +1,7 @@
 ---
-title: "Pytorch COntributions"
+title: "Pytorch Contributions"
 collection: projects
-permalink: /projects/pytorch_contrib
+permalink: /projects/pytorchcontrib
 date: 2019-12-20
 ---
 

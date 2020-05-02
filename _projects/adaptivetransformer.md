@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Transformers"
 collection: projects
-permalink: /projects/adaptive_transformer
+permalink: /projects/adaptivetransformer
 date: 2019-12-18
 ---
 
