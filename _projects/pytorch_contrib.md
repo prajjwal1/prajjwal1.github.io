@@ -2,6 +2,7 @@
 title: "Pytorch Contributions"
 collection: projects
 permalink: /projects/pytorch_contrib
+author_profile: false
 date: 2019-12-20
 ---
 

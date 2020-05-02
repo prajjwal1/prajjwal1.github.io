@@ -1,7 +1,8 @@
 ---
-title: "Autonomous Object Detection"
+title: "Incremental Learning in Person ReID"
 collection: projects
 permalink: /projects/incremental_person_reid
+author_profile: false
 date: 2019-08-02
 ---
 
