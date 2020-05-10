@@ -11,11 +11,8 @@ author_profile: false
 ### Abstract
 Coming soon
 
-More Details will be updated after camera ready deadline. 
-Paper can be found on [arXiv](https://arxiv.org/abs/)
-Code can be found on [Github](https://github.com/prajjwal1/)
+This is a placeholder for the paper. Paper will be uploaded to arXiv after the camera ready deadline which is 15 May 2020. Stay tuned. 
 
-To cite, please use the following Bibtex
+The Code can be found on [Adaptive Transformers](https://github.com/prajjwal1/adaptive_transformers). I've also released a standalone project which can be found here [Fluence](https://github.com/prajjwal1/fluence).
 
-```
-```
+
