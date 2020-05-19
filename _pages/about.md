@@ -12,6 +12,7 @@ I am a senior year undergraduate computer science student genuinely interested i
 I deeply care about promoting AI research. I run a [blog](https://prajjwal1.github.io/blog) and a [Youtube channel](https://youtube.com/c/aijournal) in free time. 
 
 # Recent News
+* 18 May 2020: My paper on Adaptive Transformers is available on [arxiv](https://arxiv.org/abs/2005.07486)
 * 17 Apr 2020: 1 Paper accepted at ACL SRW 2020 
 * 9 Apr 2020: I'll be a volunteer for ICLR 2020
 * 24 Feb 2020: I joined Siemens again as a research intern to work on Predictive Maintenance.

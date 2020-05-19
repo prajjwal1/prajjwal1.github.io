@@ -9,10 +9,10 @@ author_profile: false
 ---
 
 ### Abstract
-Coming soon
+The usage of transformers has grown from learning about language semantics to forming meaningful visiolinguistic representations. These architectures are often over-parametrized, requiring large amounts of computation. In this work, we extend adaptive approaches to learn more about model interpretability and computational efficiency. Specifically, we study attention spans, sparse, and structured dropout methods to help understand how their attention mechanism extends for vision and language tasks. We further show that these approaches can help us learn more about how the network perceives the complexity of input sequences, sparsity preferences for different modalities, and other related phenomena.
 
-This is a placeholder for the paper. Paper will be uploaded to arXiv after the camera ready deadline which is 15 May 2020. Stay tuned. 
+Paper is available at [arXiv](https://arxiv.org/abs/2005.07486)
 
-The Code can be found on [Adaptive Transformers](https://github.com/prajjwal1/adaptive_transformers). I've also released a standalone project which can be found here [Fluence](https://github.com/prajjwal1/fluence).
+The Code can be found on [Adaptive Transformers](https://github.com/prajjwal1/adaptive_transformers). I've also released a library related to this work [Fluence](https://github.com/prajjwal1/fluence).
 
 
