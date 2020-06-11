@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior year undergraduate computer science student genuinely interested in AI research. I am mostly self-taught and perform research independently. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. I have worked in many domains; some of them include multi-modal systems, adaptive computation methods, language modeling, person reidentification, autonomous object detection for self-driving. I also have experience is pushing ML models to production. I am interested in obtaining research-oriented roles/positions. All of my projects are mostly open-sourced. I am an avid Pytorch user and contribute to it from time to time. Previously I have published at ICCV, ACL workshops.   
+I am a senior year undergraduate computer science student genuinely interested in AI research. I am self-taught and perform research independently in Deep Learning. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. I have worked in many domains; some of them include multi-modal systems, adaptive computation methods, language modeling, person reidentification, autonomous object detection for self-driving. I also have experience is pushing ML models to production. I am interested in obtaining research-oriented roles/positions. All of my projects are mostly open-sourced. I am an avid Pytorch user and contribute to it from time to time. Previously I have published at ICCV, ACL workshops.
 I deeply care about promoting AI research. I run a [blog](https://prajjwal1.github.io/blog) and a [Youtube channel](https://youtube.com/c/aijournal) in free time. 
 
 # Recent News
