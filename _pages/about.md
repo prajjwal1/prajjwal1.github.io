@@ -12,6 +12,7 @@ I am a senior year undergraduate computer science student genuinely interested i
 I deeply care about promoting AI research. I run a [blog](https://prajjwal1.github.io/blog) and a [Youtube channel](https://youtube.com/c/aijournal) in free time. 
 
 # Recent News
+* 18 June 2020: Secured 19th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe) 
 * 18 May 2020: My paper on Adaptive Transformers is available on [arxiv](https://arxiv.org/abs/2005.07486)
 * 17 Apr 2020: 1 Paper accepted at ACL SRW 2020 
 * 9 Apr 2020: I'll be a volunteer for ICLR 2020
