@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior year undergraduate computer science student genuinely interested in AI research. I am self-taught and perform research independently in Deep Learning. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. I have worked in many domains; some of them include multi-modal systems, adaptive computation methods, language modeling, person reidentification, autonomous object detection for self-driving. I also have experience is pushing ML models to production. I am interested in obtaining research-oriented roles/positions. All of my projects are mostly open-sourced. I am an avid Pytorch user and contribute to it from time to time. Previously I have published at ICCV, ACL workshops.
-I deeply care about promoting AI research. I run a [blog](https://prajjwal1.github.io/blog) and a [Youtube channel](https://youtube.com/c/aijournal) in free time. 
+I am a senior year undergraduate computer science student genuinely interested in AI research. I am self-taught and perform research independently in Deep Learning. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. I have worked in many domains; some of them include multi-modal systems, adaptive computation methods, language modeling, person reidentification, autonomous object detection for self-driving. All of my projects are mostly open-sourced. I am an avid Pytorch user. Previously I have published at ICCV, ACL workshops.
+
+I deeply care about promoting clairty AI research. I run a [blog](https://prajjwal1.github.io/blog) and a [Youtube channel](https://youtube.com/c/aijournal) in free time. 
 
 # Recent News
-* 18 June 2020: Secured 19th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe) 
+* 21 June 2020: Will serve as a volunteer for [ACL](https://acl2020.org/), Seattle 2020
+* 18 June 2020: Secured 18th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe) 
+* 17 June 2020: Will serve as a volunteer for [ICML](https://icml.cc/Conferences/2020), Vienna 2020
 * 18 May 2020: My paper on Adaptive Transformers is available on [arxiv](https://arxiv.org/abs/2005.07486)
 * 17 Apr 2020: 1 Paper accepted at ACL SRW 2020 
 * 9 Apr 2020: I'll be a volunteer for ICLR 2020
