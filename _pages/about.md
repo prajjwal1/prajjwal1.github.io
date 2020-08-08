@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior year undergraduate computer science student genuinely interested in AI research. I am self-taught and perform research independently in Deep Learning. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. I have worked in many domains; some of them include multi-modal systems, adaptive computation methods, language modeling, person reidentification, autonomous object detection for self-driving. All of my projects are mostly open-sourced. I am an avid Pytorch user. Previously I have published at ICCV, ACL workshops.
+I am a CS graduate student at University of Texas Dallas specializing in ML research. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. I have worked in many domains; some of them include multi-modal systems, adaptive computation methods, language modeling, person reidentification, autonomous object detection for self-driving. All of my projects are mostly open-sourced. I am an avid Pytorch user. Previously I have published at ICCV, ACL workshops.
 
 I deeply care about promoting clairty AI research. I run a [blog](https://prajjwal1.github.io/blog) and a [Youtube channel](https://youtube.com/c/aijournal) in free time. 
 
-# Recent News
+<details>
+<summary> Recent News </summary>
+* 17 Aug 2020: I'll be joining UTD as a MSCS student
 * 21 June 2020: Will serve as a volunteer for [ACL](https://acl2020.org/), Seattle 2020
 * 18 June 2020: Secured 18th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe) 
 * 17 June 2020: Will serve as a volunteer for [ICML](https://icml.cc/Conferences/2020), Vienna 2020
@@ -24,9 +26,9 @@ I deeply care about promoting clairty AI research. I run a [blog](https://prajjw
 * 18 August 2019: 1 paper accepeted at ICCV workshop 2019
 * 21 Jan 2019: I joined Siemens as research intern (Autonomous Navigation group)
 
+</details>
 
 
 
 
-
-Conferences attended: ICCV 2019, ICLR 2020
+Conferences attended: ICCV 2019, ICLR 2020, ACL 2020
