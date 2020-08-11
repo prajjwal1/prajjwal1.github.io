@@ -14,6 +14,7 @@ I deeply care about promoting clairty AI research. I run a [blog](https://prajjw
 
 <details>
 <summary> Recent News </summary>
+
 * 17 Aug 2020: I'll be joining UTD as a MSCS student
 * 21 June 2020: Will serve as a volunteer for [ACL](https://acl2020.org/), Seattle 2020
 * 18 June 2020: Secured 18th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe) 
@@ -25,6 +26,7 @@ I deeply care about promoting clairty AI research. I run a [blog](https://prajjw
 * 2 November 2019: I’ll be doing the Poster presentation at ICCV 2019, Seoul.
 * 18 August 2019: 1 paper accepeted at ICCV workshop 2019
 * 21 Jan 2019: I joined Siemens as research intern (Autonomous Navigation group)
+---------------------------------------------------------------------------------
 
 </details>
 
