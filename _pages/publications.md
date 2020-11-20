@@ -8,7 +8,7 @@ author_profile: true
 <b>[Adaptive Transformers for Learning Multimodal Representations](../publications/adaptive_tfmr_acl_srw_2020)</b> <br> 
 Prajjwal Bhargava <br>
 <i>Association for Computational Linguistics, Student Research Workshop</i>. <b>ACL SRW 2020</b><br>
-<b> [arxiv](https://arxiv.org/abs/2005.07486) [code](https://github.com/prajjwal1/adaptive_transformer) [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/adaptive_transformer.bib)</b>
+<b> [arxiv](https://arxiv.org/abs/2005.07486) [code](https://github.com/prajjwal1/adaptive_transformer) [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/adaptive_transformer.bib) [video](http://slideslive.com/38928637) </b>
 
 
 <b>[On Generalization of Detection Models for Unconstrained Environments](../publications/GenDetectionIccvw19)</b> <br> 
