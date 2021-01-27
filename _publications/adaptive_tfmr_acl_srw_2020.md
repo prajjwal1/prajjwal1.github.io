@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/adaptive_tfmr_acl_srw_2020
 date: 17-04-2020
 venue: 'ACL SRW'
-author_profile: false
+author_profile: true
 <!-- citation: 'Prajjwal Bhargava <i>Association for Computational Linguistics 2020 (SRW) </i> <b>ACL SRW 2020</b>. -->'
 ---
 

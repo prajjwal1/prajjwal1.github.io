@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GenDetectionIccvw19
 date: 01-09-2019
 venue: 'ICCV workshop'
-author_profile: false
+author_profile: true
 <!-- citation: 'Prajjwal Bhargava <i>International Conference on Computer Vision 2019 Workshops </i> <b>ICCVW 2019</b>. -->'
 #paperurl: ''
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/IncrementalPersonReid
 date: 20-08-2018
 venue: 'arXiv Preprint'
-author_profile: false
+author_profile: true
 <!-- citation: 'Prajjwal Bhargava <i>arXiv preprint</i>-->'
 ---
 

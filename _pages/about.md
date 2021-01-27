@@ -17,7 +17,7 @@ To explore further interests, I've made a transition to NLP especially language 
 I deeply care about promoting clairty AI research. Started a [Youtube channel](https://youtube.com/c/aijournal) in free time during undergrad days for which I don't have sparse time nowadays.
 
 <details>
-<summary markdown="span"> Recent News </summary>
+    <summary> Recent News </summary>
 
 * 22 Oct 2020: Volunteer for Neurips 2020
 * 1 Oct 2020: Declared winner of Pytorch Global Hackathon 2020 in responsible AI category
@@ -36,5 +36,4 @@ I deeply care about promoting clairty AI research. Started a [Youtube channel](h
 
 
 
-
-Conferences attended: ICCV 2019, ICLR 2020, ACL 2020
+Conferences attended: ICCV 2019, ICLR 2020, ACL 2020, EMNLP 2020

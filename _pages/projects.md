@@ -7,7 +7,7 @@ permalink: /projects/
 All projects are open sourced and can be found at my [Github](https://github.com/prajjwal1). Most of them are codebases for paper which are listed [here](https://prajjwal1.github.io/publications/). Here are projects which are not associated directly with any of my papers.
 
 ### Fluence
-Winner of Pytorch Global Hackathon 2020. A Pytorch based [library](https://github.com/prajjwal1/fluence) for language understanding with regards to increasing robustness (fairness) and improving compute efficiency.
+Winner of Pytorch Global Hackathon 2020. A Pytorch based [library](https://github.com/prajjwal1/fluence) for language understanding with regards to increasing robustness (fairness) and improving compute efficiency. I've also written a [post](https://medium.com/pytorch/fluence-a-pytorch-library-for-responsible-language-understanding-cc1d44c9d251?source=collection_home---5------5-----------------------) on Pytorch channel.
 
 
 ### Open source contributions
