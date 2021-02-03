@@ -14,7 +14,7 @@ I have previously worked on numerous domains in computer vision during my intern
 
 To explore further interests, I've made a transition to NLP especially language understanding and how we can form generalized representations which can be harnessed for subsequent downstream tasks. I care about accessibility and impact marked by our research. Specifically I looked at [Adaptive methods](https://prajjwal1.github.io/publications/adaptive_tfmr_acl_srw_2020) and how can they be used to create efficient Multi-modal transformer based architectures. Recently I won [Pytorch Global Summer Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2020-global-pytorch-summer-hackathon/) for my project [Fluence](https://github.com/prajjwal1/fluence). It focusses about addressing the task of lanuguage understanding responsibly (fairness and computational efficiency).
 
-I deeply care about promoting clairty AI research. Started a [Youtube channel](https://youtube.com/c/aijournal) in free time during undergrad days for which I don't have sparse time nowadays.
+I deeply care about promoting clairty AI research. I have a [Youtube channel](https://youtube.com/c/aijournal) which is not maintained.
 
 <!-- <details> -->
     <!-- <summary> Recent News </summary> -->
