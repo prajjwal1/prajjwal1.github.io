@@ -16,8 +16,8 @@ To explore further interests, I've made a transition to NLP especially language 
 
 I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers. This project is unmaintained right now.
 
-<!-- <details> -->
-    <!-- <summary> Recent News </summary> -->
+<details>>
+    <summary> Recent News </summary>
 
 * 29 Sept 2021: Paper accepted at EMNLP insights 2021
 * 22 Oct 2020: Volunteer for Neurips 2020
@@ -33,8 +33,8 @@ I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate te
 * 2 November 2019: I’ll be doing the Poster presentation at ICCV 2019, Seoul.
 * 18 August 2019: 1 paper accepeted at ICCV workshop 2019
 * 21 Jan 2019: I joined Siemens as research intern (Autonomous Navigation group)
-<!-- </details> -->
+</details>
 
 
 
-Conferences attended: ICCV 2019, ICLR 2020, ACL 2020, EMNLP 2020
+<!-- Conferences attended: ICCV 2019, ICLR 2020, ACL 2020, EMNLP 2020 -->
