@@ -16,10 +16,7 @@ To explore further interests, I've made a transition to NLP especially language 
 
 I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers. This project is unmaintained right now.
 
-<details>>
-    <summary> Recent News </summary>
-
-* 29 Sept 2021: Paper accepted at EMNLP insights 2021
+* 29 Sept 2021: Paper accepted at EMNLP Insights from Negative Results Workshop 2021. Here is the [paper](https://arxiv.org/abs/2110.01518).
 * 22 Oct 2020: Volunteer for Neurips 2020
 * 1 Oct 2020: Declared winner of Pytorch Global Hackathon 2020 in responsible AI category
 * 17 Aug 2020: I'll be joining UT Dallas as a MSCS student
@@ -33,7 +30,6 @@ I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate te
 * 2 November 2019: I’ll be doing the Poster presentation at ICCV 2019, Seoul.
 * 18 August 2019: 1 paper accepeted at ICCV workshop 2019
 * 21 Jan 2019: I joined Siemens as research intern (Autonomous Navigation group)
-</details>
 
 
 

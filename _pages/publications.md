@@ -7,8 +7,8 @@ author_profile: true
 
 <b>[Generalization in NLI: Ways to [Not] Go Beyond Simple Heuristics](../publications/generalization_nli_emnlp)</b> <br>
 Prajjwal Bhargava, Aleksandr Drozd, Anna Rogers <br>
-<i>Empirical Methods in Natural Language Processing, Insights from Negative Results in NLP</i>. <b>EMNLP Insights 2021</b><br>
-<b> [arxiv]() [code](https://github.com/prajjwal1/generalize_lm_nli)  </b>
+<i>Empirical Methods in Natural Language Processing, Workshop on Insights from Negative Results in NLP</i>. <b> (EMNLP 2021)</b><br>
+<b> [arxiv](https://arxiv.org/abs/2110.01518) [code](https://github.com/prajjwal1/generalize_lm_nli)  </b>
 
 
 <b>[Adaptive Transformers for Learning Multimodal Representations](../publications/adaptive_tfmr_acl_srw_2020)</b> <br>
