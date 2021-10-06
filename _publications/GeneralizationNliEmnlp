@@ -1,0 +1,24 @@
+---
+title: "Generalization in NLI: Ways to [Not] Go Beyond Simple Heuristics"
+collection: publications
+permalink: /publications/GeneralizationNliEmnlp
+date: 09-29-2021
+venue: 'EMNLP Workshop 2021'
+author_profile: true
+<!-- citation: 'Prajjwal Bhargava, Aleksander Drozd, Anna Rogers <i>EMNLP Insights 2021 </i> <b>EMNLP 2021</b>. -->'
+#paperurl: ''
+---
+Abstract:
+Much of recent progress in NLU was shown to be due to models' learning dataset-specific heuristics. We conduct a case study of generalization in NLI (from MNLI to the adversarially constructed HANS dataset) in a range of BERT-based architectures (adapters, Siamese Transformers, HEX debiasing), as well as with subsampling the data and increasing the model size. We report 2 successful and 3 unsuccessful strategies, all providing insights into how Transformer-based models learn to generalize.
+
+Citation
+```
+@misc{bhargava2021generalization,
+      title={Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics},
+      author={Prajjwal Bhargava and Aleksandr Drozd and Anna Rogers},
+      year={2021},
+      eprint={2110.01518},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
