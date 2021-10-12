@@ -13,10 +13,11 @@ I am a CS graduate student at University of Texas Dallas specializing in NLP res
 I have previously worked on numerous domains in computer vision during my internships which includes [Person Re-Identification](https://prajjwal1.github.io/publications/IncrementalPersonReid), [Depth Perception and 3D Object Detection](https://www.youtube.com/watch?v=vlDTgj3Kut8). Out of my interests, I've worked extensively on visual recognition based tasks and [generalization of detection models](https://prajjwal1.github.io/publications/GenDetectionIccvw19). I've also written numerous [blog posts](https://prajjwal1.github.io/blog/) about it.
 
 To explore further interests, I've made a transition to NLP especially language understanding and how we can form generalized representations which can be harnessed for subsequent downstream tasks. I care about accessibility and impact marked by our research. Specifically I looked at [Adaptive methods](https://prajjwal1.github.io/publications/adaptive_tfmr_acl_srw_2020) and how can they be used to create efficient Multi-modal transformer based architectures. Recently I won [Pytorch Global Summer Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2020-global-pytorch-summer-hackathon/) for my project [Fluence](https://github.com/prajjwal1/fluence). It focusses about addressing the task of lanuguage understanding responsibly (fairness and computational efficiency).
+My recent [NLP project](https://arxiv.org/abs/2110.01518) looked at how generalization can be improved for NLI task. Currently, I am working on how commonsense reasoning can be improved in pre-trained Language models.
 
 I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers. This project is unmaintained right now.
 
-* 29 Sept 2021: Paper accepted at EMNLP Insights from Negative Results Workshop 2021. Here is the [paper](https://arxiv.org/abs/2110.01518).
+* 29 Sept 2021: Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
 * 22 Oct 2020: Volunteer for Neurips 2020
 * 1 Oct 2020: Declared winner of Pytorch Global Hackathon 2020 in responsible AI category
 * 17 Aug 2020: I'll be joining UT Dallas as a MSCS student
