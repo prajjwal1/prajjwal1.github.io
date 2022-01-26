@@ -2,7 +2,7 @@
 title: "Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey"
 collection: publications
 permalink: /publications/commonsense_survey_aaai_2022
-date: 01-25-2022
+date: 25-01-2022
 venue: 'AAAI 2022'
 author_profile: true
 <!-- citation: 'Prajjwal Bhargava, Vincent Ng <i>Proceedings of the 36th AAAI Conference on Artificial Intelligence, 2022 </i> <b>AAAI 2022</b>. -->'

@@ -2,7 +2,7 @@
 title: "Generalization in NLI: Ways to [Not] Go Beyond Simple Heuristics"
 collection: publications
 permalink: /publications/GeneralizationNliEmnlp
-date: 09-29-2021
+date: 29-09-2021
 venue: 'Workshop on Insights from Negative Results, EMNLP 2021'
 author_profile: true
 <!-- citation: 'Prajjwal Bhargava, Aleksander Drozd, Anna Rogers <i>Workshop on Insights from Negative Results, EMNLP 2021 </i> <b>EMNLP 2021</b>. -->'
