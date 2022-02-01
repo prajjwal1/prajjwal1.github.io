@@ -14,12 +14,12 @@ I have previously worked on numerous domains in computer vision during my intern
 
 To explore further interests, I've made a transition to NLP especially language understanding and how we can form generalized representations which can be harnessed for subsequent downstream tasks. I care about accessibility and impact marked by our research. Specifically I looked at [Adaptive methods](https://prajjwal1.github.io/publications/adaptive_tfmr_acl_srw_2020) and how can they be used to create efficient Multi-modal transformer based architectures. Recently I won [Pytorch Global Summer Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2020-global-pytorch-summer-hackathon/) for my project [Fluence](https://github.com/prajjwal1/fluence). It focusses about addressing the task of lanuguage understanding responsibly (fairness and computational efficiency).
 
-My recent projects have looked more closely on reasoning. [Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in pre-trained Language Models can be improved from biased data. My gradudate research looked specifically on commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://www.hlt.utdallas.edu/~vince/papers/aaai22.pdf) provides a comprehensive look at strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and generation.
+My recent projects have looked more closely on reasoning. [Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in pre-trained Language Models can be improved from biased data. My gradudate research looked specifically on commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://arxiv.org/abs/2201.12438) provides a comprehensive look at strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and generation.
 
 
 I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers. This project is unmaintained right now.
 
-* 15 Oct 2021: Our survey paper has been accepted at AAAI 2022. 
+* 15 Oct 2021: [Survey paper](https://arxiv.org/abs/2201.12438) has been accepted at AAAI 2022.
 * 29 Sept 2021: Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
 * 22 Oct 2020: Volunteer for Neurips 2020
 * 1 Oct 2020: Declared winner of Pytorch Global Hackathon 2020 in responsible AI category
