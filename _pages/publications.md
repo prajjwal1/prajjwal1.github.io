@@ -8,13 +8,14 @@ author_profile: true
 <b>[Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey](../publications/commonsense_survey_aaai_2022)</b> <br>
 Prajjwal Bhargava, Vincent Ng <br>
 <i> AAAI Conference on Artificial Intelligence, 2022</i>. <b> (AAAI 2022)</b><br>
-<b> [arxiv](https://arxiv.org/abs/2201.12438)  [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib) </b>
+<b> [arxiv](https://arxiv.org/abs/2201.12438)  [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib) [poster]([slides](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/aaai-22/survey_poster.pdf)</b>
+) </b>
 
 
 <b>[Generalization in NLI: Ways to [Not] Go Beyond Simple Heuristics](../publications/GeneralizationNliEmnlp)</b> <br>
 Prajjwal Bhargava, Aleksandr Drozd, Anna Rogers <br>
 <i>Empirical Methods in Natural Language Processing, Workshop on Insights from Negative Results in NLP</i>. <b> (EMNLP 2021)</b><br>
-<b> [arxiv](https://arxiv.org/abs/2110.01518)  [code (huggingface)](https://github.com/prajjwal1/generalize_lm_nli)  [code (pytorch lightning)](https://github.com/vecto-ai/langmo)  [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/generalize_lm_nli.bib)  [video](https://www.youtube.com/watch?v=ByQu3J6Ji7E) [poster](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/emnlp-2021/generalization-nli/NLI_Generalization_EMNLP_Poster.pdf) [slides](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/emnlp-2021/generalization-nli/chinese_room_presentation.pdf)</b>
+<b> [arxiv](https://arxiv.org/abs/2110.01518)  [code (huggingface)](https://github.com/prajjwal1/generalize_lm_nli)  [code (pytorch lightning)](https://github.com/vecto-ai/langmo)  [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/generalize_lm_nli.bib)  [video](https://www.youtube.com/watch?v=ByQu3J6Ji7E) [poster](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/emnlp-21/NLI_Generalization_EMNLP_Poster.pdf) [slides](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/emnlp-21/chinese_room_presentation.pdf)</b>
 
 
 <b>[Adaptive Transformers for Learning Multimodal Representations](../publications/adaptive_tfmr_acl_srw_2020)</b> <br>

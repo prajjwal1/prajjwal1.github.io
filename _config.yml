@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prajjwal Bhargava"
 title_separator          : "-"
 name                     : &name "Prajjwal Bhargava"
-description              : &description "Deep Learning Researcher; Graduate student"
+description              : &description "Machine Learning Researcher"
 url                      : https://prajjwal1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prajjwal1/prajjwal1.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=zTq103EAAAAJ&hl=en"
   email            : "removethisifyouarehuman-prajjwalin@pm.me"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.semanticscholar.org/author/Prajjwal-Bhargava/51229603"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "prajjwal1"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -199,10 +199,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -217,8 +217,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -226,8 +226,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   - scope:
       path: ""
       type: projects
@@ -241,16 +241,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:

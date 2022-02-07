@@ -8,16 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS graduate student at University of Texas Dallas specializing in NLP research under [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about commonsense reasoning through adversarial learning. My research interests lie in the general area of deep learning, representation learning, including computer vision and language. My current interests include language understanding tasks with respect to reasoning and interpretability.
+I am a CS graduate student at University of Texas Dallas specializing in NLP research under
+[Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial
+learning. My research interests lie in the general area of deep learning and representation learning, especially at the intersection
+of computer vision and language.
 
-I have previously worked on numerous domains in computer vision during my internships which includes [Person Re-Identification](https://prajjwal1.github.io/publications/IncrementalPersonReid), [Depth Perception and 3D Object Detection](https://www.youtube.com/watch?v=vlDTgj3Kut8). Out of my interests, I've worked extensively on visual recognition based tasks and [generalization of detection models](https://prajjwal1.github.io/publications/GenDetectionIccvw19). I've also written numerous [blog posts](https://prajjwal1.github.io/blog/) about it.
+**Vision**
+I have previously worked on numerous domains in computer vision during my internships which includes
+[Person Re-Identification](https://prajjwal1.github.io/publications/IncrementalPersonReid),
+[Depth Perception and 3D Object Detection](https://www.youtube.com/watch?v=vlDTgj3Kut8). Out of my interests,
+I've worked extensively on visual recognition based tasks and
+[generalization of detection models](https://prajjwal1.github.io/publications/GenDetectionIccvw19).
+I've also written numerous [blog posts](https://prajjwal1.github.io/blog/) about it.
 
-To explore further interests, I've made a transition to NLP especially language understanding and how we can form generalized representations which can be harnessed for subsequent downstream tasks. I care about accessibility and impact marked by our research. Specifically I looked at [Adaptive methods](https://prajjwal1.github.io/publications/adaptive_tfmr_acl_srw_2020) and how can they be used to create efficient Multi-modal transformer based architectures. Recently I won [Pytorch Global Summer Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2020-global-pytorch-summer-hackathon/) for my project [Fluence](https://github.com/prajjwal1/fluence). It focusses about addressing the task of lanuguage understanding responsibly (fairness and computational efficiency).
+**Language**
+To explore further interests, I've made a transition to NLP especially language understanding and how we can form
+generalized representations which can be harnessed for subsequent downstream tasks. I care about accessibility
+and impact marked by our research. Specifically I looked at
+[Adaptive methods](https://prajjwal1.github.io/publications/adaptive_tfmr_acl_srw_2020) and how can they be used to
+create efficient Multi-modal transformer based architectures. Recently I won
+[Pytorch Global Summer Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2020-global-pytorch-summer-hackathon/)
+for my project [Fluence](https://github.com/prajjwal1/fluence). It focusses about addressing the task of lanuguage
+understanding responsibly (fairness and computational efficiency).
 
-My recent projects have looked more closely on reasoning. [Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in pre-trained Language Models can be improved from biased data. My gradudate research looked specifically on commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://arxiv.org/abs/2201.12438) provides a comprehensive look at strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and generation.
+My recent projects have looked more closely on reasoning.
+[Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in
+pre-trained Language Models can be improved from biased data (MNLI -> HANS). My gradudate research looked specifically
+on commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://arxiv.org/abs/2201.12438) provides
+a comprehensive look at strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and
+generation.
 
 
-I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers. This project is unmaintained right now.
+I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers.
+After graduate school, my interests have changed about creating content as a result of which this project is
+unmaintained right now.
+
+Some updates :
 
 * 15 Oct 2021: [Survey paper](https://arxiv.org/abs/2201.12438) has been accepted at AAAI 2022.
 * 29 Sept 2021: Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
