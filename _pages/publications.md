@@ -8,7 +8,7 @@ author_profile: true
 <b>[Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey](../publications/commonsense_survey_aaai_2022)</b> <br>
 Prajjwal Bhargava, Vincent Ng <br>
 <i> AAAI Conference on Artificial Intelligence, 2022</i>. <b> (AAAI 2022)</b><br>
-<b> [arxiv](https://arxiv.org/abs/2201.12438)  [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib) [poster]([slides](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/aaai-22/survey_poster.pdf)</b>
+<b> [arxiv](https://arxiv.org/abs/2201.12438)  [bibtex](https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib) [poster](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/aaai-22/survey_poster.pdf)</b>
 ) </b>
 
 

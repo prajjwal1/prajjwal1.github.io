@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Prajjwal Bhargava"
   avatar           : "profile.jpg"
-  bio              : "another nn.Sequential(), really far from convergence"
+  bio              : "another neural net, really far from convergence"
   location         : "High Dimensional Latent Space"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=zTq103EAAAAJ&hl=en"
   email            : "removethisifyouarehuman-prajjwalin@pm.me"
-  researchgate     :  "https://www.semanticscholar.org/author/Prajjwal-Bhargava/51229603"
+  semanticscholar  :  "https://www.semanticscholar.org/author/Prajjwal-Bhargava/51229603"
   uri              :
   bitbucket        :
   codepen          :
