@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS graduate student at University of Texas Dallas specializing in NLP research under
+I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (FAIR) in the [Conversational AI team](https://ai.facebook.com/research/conversational-ai/) working
+under [Chinnadhurai Sankar](https://chinnadhurai.github.io).
+Previously, I was a CS graduate student at University of Texas Dallas where I worked on commonsense reasoning under
 [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial
-learning. My research interests lie in the general area of deep learning and representation learning, especially at the intersection
+learning (coming soon). My research interests lie in the general area of deep learning and representation learning, especially at the intersection
 of computer vision and language.
 
 **Vision**
@@ -45,6 +47,7 @@ unmaintained right now.
 
 Some updates :
 
+* 27 Apr 2022: I'll be joining Meta AI Research (formely FAIR) as an AI Resident at Menlo Park.
 * 15 Oct 2021: [Survey paper](https://arxiv.org/abs/2201.12438) has been accepted at AAAI 2022.
 * 29 Sept 2021: Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
 * 22 Oct 2020: Volunteer for Neurips 2020
