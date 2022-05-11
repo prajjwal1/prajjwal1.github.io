@@ -1,9 +1,10 @@
 ---
-title: "Books"
+title: "On Generalization of Detection Models for Unconstrained Environments"
+collection: misc
 permalink: /misc/books
+date: 11-05-2022
+author_profile: false
 ---
-<br>
-
 
 List of non-fiction books that I've read and would recommend to others.
 
