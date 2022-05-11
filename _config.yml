@@ -251,6 +251,14 @@ defaults:
       layout: talk
       author_profile: false
       share: false
+  # _misc
+  - scope:
+      path: ""
+      type: misc
+    values:
+      layout: misc
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
