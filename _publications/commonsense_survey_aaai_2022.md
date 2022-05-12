@@ -16,9 +16,9 @@ presents a survey of these tasks, discusses the strengths and weaknesses of stat
 pre-trained models for commonsense reasoning and generation as revealed by these tasks, and reflects
 on future research directions.
 
-- [arXiv](https://www.hlt.utdallas.edu/~vince/papers/aaai22.pdf)
+- [arXiv](https://arxiv.org/abs/2201.12438)
 - [poster](https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/aaai-22/survey_poster.pdf)
-- [AAAI]()
+- [AAAI](https://www.aaai.org/AAAI22Papers/SMT-00456-BhargavaP.pdf)
 - [bibtex]()
 
 

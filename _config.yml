@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Prajjwal Bhargava"
   avatar           : "profile.jpg"
-  bio              : "another neural net, really far from convergence"
-  location         : "High Dimensional Latent Space"
+  bio              : ""
+  location         : "California"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=zTq103EAAAAJ&hl=en"
@@ -188,6 +188,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  misc:
     output: true
     permalink: /:collection/:path/
 
