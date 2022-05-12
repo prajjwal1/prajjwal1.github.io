@@ -4,4 +4,4 @@ permalink: /misc/
 ---
 <br>
 
-Books
+[Books](../misc/books)
