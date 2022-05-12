@@ -3,6 +3,7 @@ title: "Books"
 collection: misc
 permalink: /misc/books
 date: 11-05-2022
+venue: ''
 author_profile: true
 ---
 
