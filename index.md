@@ -20,8 +20,8 @@ permalink:  /
 
 # News
 
-* [Apr 22] I'll be joining Meta AI Research (formerly FAIR) as an AI Resident at Menlo Park.
-* [Oct 21] [Survey paper](https://arxiv.org/abs/2201.12438) has been accepted at AAAI 2022.
+* [Apr 22] I'll be joining Meta AI (formerly FAIR) as an AI Resident at Menlo Park.
+* [Oct 21]  Survey paper has been accepted at AAAI 2022.
 * [Sept 21]: Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
 * [Oct 20]: Volunteer for Neurips 2020
 * [Oct 20]: Declared winner of Pytorch Global Hackathon 2020 in the responsible AI category
