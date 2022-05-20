@@ -22,20 +22,20 @@ permalink:  /
 
 * [Apr 22] I'll be joining Meta AI (formerly FAIR) as an AI Resident at Menlo Park.
 * [Oct 21]  Survey paper has been accepted at AAAI 2022.
-* [Sept 21]: Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
-* [Oct 20]: Volunteer for Neurips 2020
-* [Oct 20]: Declared winner of Pytorch Global Hackathon 2020 in the responsible AI category
-* [Aug 20]: I'll be joining UT Dallas as an MSCS student
-* [June 20]: Will serve as a volunteer for [ACL](https://acl2020.org/), Seattle 2020
-* [June 20]: Secured 18th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe)
-* [June 20]: Will serve as a volunteer for [ICML](https://icml.cc/Conferences/2020), Vienna 2020
-* [May 20]: My paper on Adaptive Transformers is available on [arxiv](https://arxiv.org/abs/2005.07486)
-* [Apr 20]: 1 Paper accepted at ACL SRW 2020
-* [Apr 20]: I'll be a volunteer for ICLR 2020
-* [Feb 20]: I joined Siemens again as a research intern to work on Predictive Maintenance.
-* [Nov 19]: I’ll be doing the Poster presentation at ICCV 2019, Seoul.
-* [August 19]: 1 paper accepted at ICCV workshop 2019
-* [Jan 19]: I joined Siemens as a research intern (Autonomous Navigation group)
+* [Sept 21] Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
+* [Oct 20] Volunteer for Neurips 2020
+* [Oct 20] Declared winner of Pytorch Global Hackathon 2020 in the responsible AI category
+* [Aug 20] I'll be joining UT Dallas as an MSCS student
+* [June 20] Will serve as a volunteer for [ACL](https://acl2020.org/), Seattle 2020
+* [June 20] Secured 18th spot at CVPR 2020 [VQA challenge](https://visualqa.org/roe)
+* [June 20] Will serve as a volunteer for [ICML](https://icml.cc/Conferences/2020), Vienna 2020
+* [May 20] My paper on Adaptive Transformers is available on [arxiv](https://arxiv.org/abs/2005.07486)
+* [Apr 20] 1 Paper accepted at ACL SRW 2020
+* [Apr 20] I'll be a volunteer for ICLR 2020
+* [Feb 20] I joined Siemens again as a research intern to work on Predictive Maintenance.
+* [Nov 19] I’ll be doing the Poster presentation at ICCV 2019, Seoul.
+* [August 19] 1 paper accepted at ICCV workshop 2019
+* [Jan 19] I joined Siemens as a research intern (Autonomous Navigation group)
 
 <div id="read-more-button">
     <a nohref>Read more</a>
