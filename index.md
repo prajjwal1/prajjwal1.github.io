@@ -179,20 +179,18 @@ unmaintained right now.
             providing support for compute efficient and debiasing algorithms in transformer based
             model for NLP research. Contains implementation of Adaptive Attention, Sparsity, Layerdrop,
             Debiasing, Pruning utilities etc.
-            <a target="_blank" href="http://github.com/prajjwal1/fluence"><img style="margin-top: 10px;" src="/img/projects/ai-paygrades.png"></a>
+            <a target="_blank" href="http://github.com/prajjwal1/fluence"><img style="margin-top: 10px;" src="/img/projects/fluence.png"></a>
         </p>
     </div>
 </div>
 
 
-### Autonomous Object Detection
-
 <div class="row">
     <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/prajjwal1">Open source contributions</a></h2>
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="/posts/open_source">Open source contributions</a></h2>
         <p class="talkd">
             I've made several contributions to [Pytorch](https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Aprajjwal1+is%3Aclosed) and [Huggingface Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aprajjwal1+is%3Aclosed)
-            <a target="_blank" href="https://github.com/prajjwal1"><img class="project-img" src="/img/projects/neural-vqa-attention.jpg"></a>
+            <a target="_blank" href="/posts/open_source"><img class="project-img" src="/img/projects/hf_pytorch.png"></a>
         </p>
     </div>
 </div>
@@ -202,61 +200,15 @@ unmaintained right now.
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/prajjwal1/autonomous-object-detection">Autonomous Object Detection</a></h2>
         <p class="talkd">
-            This [project](https://github.com/prajjwal1/autonomous-object-detection) focussed on 2D object detection with Pytorch. User can leverage models provided from `torchvision` and use datasets provided in this project (`idd`, `cityscapes`, `bdd`) for training and evaluation of models. Additionally, support for incremental learning was added.
-            <a target="_blank" href="https://github.com/abhshkdz/neural-vqa"><img src="/img/projects/neural-vqa.jpg"></a>
+            This project focussed on 2D object detection with Pytorch.
+            User can leverage models provided from `torchvision` and use datasets provided in this project (`idd`, `cityscapes`, `bdd`)
+            for training and evaluation of models. Additionally, support for incremental learning was added.
+            <a target="_blank" href="https://github.com/prajjwal1/autonomous-object-detection"><img src="/img/projects/baseline_preds.png"></a>
         </p>
     </div>
 </div>
 
-<!-- <div class="row"> -->
-    <!-- <div class="col-sm-12"> -->
-        <!-- <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://erdos.sdslabs.co">Erdős</a></h2> -->
-        <!-- <p class="talkd"> -->
-            <!-- Erdős by <a target="_blank" href="//sdslabs.co">SDSLabs</a> is a competitive math learning platform, similar in spirit to <a href="https://projecteuler.net/">Project Euler</a>, albeit more feature-packed (support for holding competitions, has a social layer) and prettier. -->
-            <!-- <a target="_blank" href="https://erdos.sdslabs.co"><img style="margin-top:10px;" src="/img/projects/erdos.jpg"></a> -->
-        <!-- </p> -->
-    <!-- </div> -->
-<!-- </div> -->
-
-<!-- <div class="row"> -->
-    <!-- <div class="col-sm-6"> -->
-        <!-- <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/abhshkdz/graf">graf</a></h2> -->
-        <!-- <p class="talkd"> -->
-            <!-- graf plots pretty git contribution bar graphs in the terminal. -->
-            <!-- <code>gem install graf</code> to install. -->
-            <!-- <a target="_blank" href="https://github.com/abhshkdz/graf"><img style="margin-top:10px;" src="/img/projects/graf.gif"></a> -->
-        <!-- </p> -->
-    <!-- </div> -->
-    <!-- <div class="col-sm-6"> -->
-        <!-- <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/abhshkdz/HackFlowy">HackFlowy</a></h2> -->
-        <!-- <p class="talkd"> -->
-            <!-- Clone of <a href="//workflowy.com">WorkFlowy.com</a>, a beautiful, list-based note-taking website that has a 500-item monthly limit on the free tier :-(. This project is an open-source clone of WorkFlowy. "Make lists. Not war." :-) -->
-            <!-- <a target="_blank" href="https://github.com/abhshkdz/HackFlowy"><img style="margin-top:40px;" src="/img/projects/hackflowy.png"></a> -->
-        <!-- </p> -->
-    <!-- </div> -->
-<!-- </div> -->
-
-<!-- <div class="row"> -->
-    <!-- <div class="col-sm-6"> -->
-        <!-- <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/abhshkdz/AirMaps">AirMaps</a></h2> -->
-        <!-- <p class="talkd"> -->
-            <!-- AirMaps was a fun hackathon project that lets users navigate through Google Earth with gestures and speech commands using a Kinect sensor. It was the <a target="_blank" href="https://blog.sdslabs.co/2014/02/code-fun-do">winning entry in Microsoft Code.Fun.Do</a>. -->
-            <!-- <a target="_blank" href="https://github.com/abhshkdz/AirMaps"><img style="margin-top:10px;" src="/img/projects/airmaps.jpg"></a> -->
-        <!-- </p> -->
-    <!-- </div> -->
-    <!-- <div class="col-sm-6"> -->
-        <!-- <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/sdslabs/hackview">HackView</a></h2> -->
-        <!-- <p class="talkd"> -->
-            <!-- Another fun hackathon-winning project built during Yahoo! HackU! 2012 that involves webRTC-based P2P video chat, and was faster than any other video chat provider (at the time, before Google launched Hangouts). -->
-        <!-- </p> -->
-    <!-- </div> -->
-    <!-- <div class="col-sm-6"> -->
-        <!-- <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://github.com/abhshkdz/8tracks-downloader">8tracks-downloader</a></h2> -->
-        <!-- <p class="talkd"> -->
-            <!-- Ugly-looking, but super-effective bash script for downloading entire playlists from 8tracks. (Still works as of 10/2016). -->
-        <!-- </p> -->
-    <!-- </div> -->
-<!-- < -->/div>
+</div>
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
@@ -277,78 +229,3 @@ unmaintained right now.
 [6]: http://cns.qbi.uq.edu.au/
 [7]: //developers.google.com/open-source/gsoc/
 [8]: /posts/summer-of-code/
-[9]: /posts/gsoc-reunion-2014/
-[10]: //blog.sdslabs.co/2012/09/hacku
-[11]: //blog.sdslabs.co/2014/02/code-fun-do
-[12]: //www.facebook.com/SDSLabs/posts/527540147292475
-[13]: /posts/deloitte-cctc-3/
-[14]: /posts/google-india-community-summit/
-[15]: //blog.sdslabs.co/2013/10/syntax-error-2013
-[16]: //sdslabs.co/
-[17]: //erdos.sdslabs.co/
-[18]: //projecteuler.net/
-[19]: //github.com/abhshkdz/neural-vqa
-[20]: //github.com/abhshkdz/HackFlowy
-[21]: //github.com/abhshkdz/graf
-[22]: //github.com/abhshkdz
-[23]: //twitter.com/abhshkdz
-[24]: //instagram.com/abhshkdz
-[25]: http://x.abhishekdas.com/
-[26]: https://abhishekdas.com/vqa-hat/
-[27]: http://arxiv.org/abs/1606.03556
-[28]: https://www.newscientist.com/article/2095616-robot-eyes-and-humans-fix-on-different-things-to-decode-a-scene/
-[29]: https://www.technologyreview.com/s/601819/ai-is-learning-to-see-the-world-but-not-the-way-humans-do/
-[30]: http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes
-[31]: http://iitr.ac.in/
-[32]: https://www.facebook.com/dhruv.batra.1253/posts/1783087161932290
-[33]: https://drive.google.com/file/d/1nObeNzl-sTy8I5QN1Jv8wscebKLv-6RY/view?usp=sharing
-[34]: http://aideadlin.es/
-[35]: //github.com/abhshkdz/neural-vqa-attention
-[36]: https://snapresearchfellowship.splashthat.com/
-[37]: https://www.youtube.com/watch?v=R4hugGnNr7s
-[38]: https://www.youtube.com/watch?v=I9OlorMh7wU
-[39]: https://adoberesearch.ctlprojects.com/fellowship/previous-fellowship-award-winners/
-[40]: https://embodiedqa.org/
-[41]: https://youtu.be/KAlGWMJnWyc?t=26m56s
-[42]: https://2018gputechconf.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=152715
-[43]: https://www.ic.gatech.edu/news/600684/three-ic-students-earn-snap-research-awards
-[44]: https://www.ic.gatech.edu/news/601084/new-research-fellowships-offer-two-students-funding-access-adobes-creative-cloud
-[45]: https://github.com/facebookresearch/House3D
-[46]: https://gkioxari.github.io/
-[47]: https://research.fb.com/people/parikh-devi/
-[48]: https://research.fb.com/people/batra-dhruv/
-[49]: https://lvatutorial.github.io/
-[50]: http://acl2018.org/tutorials/#connecting-language-and-vis
-[51]: http://visualqa.org/workshop.html
-[52]: http://on-demand.gputechconf.com/gtc/2018/video/S8582/
-[53]: https://visualdialog.org/challenge/2018
-[54]: https://youtu.be/gz2VoDrvX-A?t=1h19m58s
-[55]: https://research.fb.com/people/rabbat-mike/
-[56]: https://www.cs.mcgill.ca/~jpineau/
-[57]: https://visualdialog.org/challenge/2018#winners
-[58]: https://www.youtube.com/watch?v=xoHvho-YRgs&t=7330
-[fb-fellow-page]: https://research.fb.com/announcing-the-2019-facebook-fellows-and-emerging-scholars/
-[joelle-corl18-talk-mention]: https://www.youtube.com/watch?v=FSsEqEJKo8A&t=3497
-[visdial-challenge-2]: https://visualdialog.org/challenge/2019
-[ic-gt-article]: https://www.ic.gatech.edu/news/617061/see-and-say-abhishek-das-working-provide-crucial-communication-tools-intelligent-agents
-[caliper]: https://caliper.ai
-[felix-hill]: https://fh295.github.io
-[laura-rimell]: http://www.rimell.cc/laura/
-[stephen-clark]: https://sites.google.com/site/stephenclark609/
-[andrej-karpathy]: https://karpathy.ai/
-[vigil19]: https://vigilworkshop.github.io/2019
-[tarmac-icml-talk]: https://www.facebook.com/icml.imls/videos/444326646299556/
-[mastodon]: https://mastodon.social/web/accounts/1011404
-[conquerearth]: https://conquer.earth/abhshkdz
-[qa-probing-icml20-talk]: https://slideslive.com/38928261/probing-emergent-semantics-in-predictive-agents-via-question-answering
-[vigil20]: https://vigilworkshop.github.io
-[ocp]: https://opencatalystproject.org
-[ocp-cnbc]: https://www.cnbc.com/2020/10/14/facebook-to-use-ai-in-bid-to-improve-renewable-energy-storage.html
-[ocp-engadget]: https://engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html
-[ocp-fortune]: https://fortune.com/2020/10/14/facebook-ai-open-catalyst-dataset-chemistry-renewable-energy/
-[ocp-venturebeat]: https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/
-[aipaygrad.es]: https://aipaygrad.es
-[sigma-xi-thesis-award]: https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf
-[coc-dissertation-award]: https://sites.gatech.edu/gtcomputingawards2021/graduate-student-awards/
-[thesis-pdf]: https://drive.google.com/file/u/2/d/1b2Gonazl1Os0eLPV9frkucEqSuRroEvD/view?usp=sharing
-[aaai-dissertation-award]: https://aaai.org/Awards/dissertation-award.php
