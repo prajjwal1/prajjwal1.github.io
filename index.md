@@ -84,132 +84,15 @@ I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate te
 After graduate school, my interest has changed about creating content as a result of which this project is
 unmaintained right now.
 
-<!-- <div class="row" id="timeline-logos"> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a href="//iitr.ac.in"><img src="/img/logos/iitr.jpg"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- IIT Roorkee<br> -->
-            <!-- 2011 - 2015 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a href="//qbi.uq.edu.au"><img style="width:120px;" src="/img/logos/uq.png"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- Queensland Brain Institute<br> -->
-            <!-- Summer 2015 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a href="//vt.edu"><img src="/img/logos/vt.png"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- Virginia Tech<br> -->
-            <!-- 2015 - 2016 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-2"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a target="_blank" href="//gatech.edu"><img src="/img/logos/gatech.png"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- Georgia Tech<br> -->
-            <!-- 2017 - 2020 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px;" src="/img/logos/fair3.png"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- Facebook AI Research<br> -->
-            <!-- S2017, W2018, S2018 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a target="_blank" href="//deepmind.com"><img style="width:120px;" src="/img/logos/deepmind.png"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- DeepMind<br> -->
-            <!-- Winter 2019 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a target="_blank" href="//www.tesla.com/autopilotAI"><img style="width:120px;" src="/img/logos/tesla.jpg"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- Tesla Autopilot<br> -->
-            <!-- Summer 2019 -->
-        <!-- </div> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-3"> -->
-        <!-- <div class="logo-wrap"> -->
-            <!-- <span class="helper"></span> -->
-            <!-- <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px;" src="/img/logos/fair3.png"></a> -->
-        <!-- </div> -->
-        <!-- <div class="logo-desc"> -->
-            <!-- Facebook AI Research<br> -->
-            <!-- Present -->
-        <!-- </div> -->
-    <!-- </div> -->
-<!-- </div> -->
-
-<!-- During my PhD, I interned thrice at Facebook AI Research — Summer 2017 and Spring 2018 -->
-<!-- at Menlo Park, working with [Georgia Gkioxari][46], -->
-<!-- [Devi Parikh][47] and [Dhruv Batra][48] on training embodied agents for navigation and -->
-<!-- question-answering in simulated environments (see [embodiedqa.org][40]), and Summer -->
-<!-- 2018 at Montréal, working with [Mike Rabbat][55] and [Joelle Pineau][56] on -->
-<!-- <a target="_blank" href="https://arxiv.org/abs/1810.11187">communication protocols in multi-agent reinforcement learning</a>. -->
-<!-- In 2019, I interned at DeepMind in London working on grounded language learning -->
-<!-- with [Felix Hill][felix-hill], [Laura Rimell][laura-rimell], -->
-<!-- and [Stephen Clark][stephen-clark], and at Tesla Autopilot in Palo Alto working on -->
-<!-- differentiable neural architecture search with [Andrej Karpathy][andrej-karpathy]. -->
-
-<!-- My PhD research was supported by fellowships from [Facebook][fb-fellow-page], -->
-<!-- [Adobe][39], and [Snap][36]. -->
-
-<!-- Prior to joining grad school, I worked on neural coding in zebrafish tectum -->
-<!-- as an intern under [Prof. Geoffrey Goodhill][4] and [Lilach Avitan][5] -->
-<!-- at the [Goodhill Lab][6], Queensland Brain Institute. -->
-
-<!-- I got my Bachelor's at [IIT Roorkee][31] in 2015. -->
-<!-- During my undergrad, I took part in -->
-<!-- Google Summer of Code ([2013][8] and [2014][9]), -->
-<!-- won several competitions ([Yahoo! HackU!][10], -->
-<!-- [Microsoft Code.Fun.Do.][11], Deloitte CCTC [2013][12] and [2014][13]), -->
-<!-- and owe most of my programming/tinkering bent to [SDSLabs][16]. -->
-
-<!-- On the side, I built [aideadlin.es][34] (countdowns to a bunch of CV/NLP/ML/AI conference deadlines) -->
-<!-- and [aipaygrad.es][aipaygrad.es] (statistics of industry job offers in AI), -->
-<!-- [neural-vqa][19] and its extension [neural-vqa-attention][35], -->
-<!-- [HackFlowy][20], [graf][21], [Erdős][17], [etc][22]. -->
-<!-- I also occasionally dabble in [generative art](/art). -->
-<!-- I like [this map][conquerearth] tracking the places I've been to. -->
-<!-- [Blog posts from a previous life](/archive). -->
-
----
-
 <a name="/publications"></a>
 
 # Publications
 
-<a name="/gemnet-oc"></a>
+<a name="/commonsense-survey"></a>
 <h2 class="pubt">Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava and Vincent Ng</span><br>
+    <span class="conf">AAAI 2022</span>
     <span class="conf"></span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2201.12438">Paper</a>
@@ -217,14 +100,14 @@ unmaintained right now.
         <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib">Bibtex</a>
     </span>
 </p>
-<img src="/img/ocp/gemnet_oc.jpg">
+<img src="/img/survey/probe.jpg">
 <hr>
 
-<a name="/habitat-web"></a>
+<a name="/generalization-nli"></a>
 <h2 class="pubt">Generalization in NLI: Ways to [Not] Go Beyond Simple Heuristics</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava, Aleksander Drozd, Anna Rogers</span><br>
-    <span class="conf">CVPR 2022</span>
+    <span class="conf">EMNLP Workshop on Insights from Negative Results 2022</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2110.01518">Paper</a>
         <a target="_blank" href="https://github.com/prajjwal1/generalize_lm_nli">Code (Huggingface)</a>
@@ -236,10 +119,10 @@ unmaintained right now.
 
     </span>
 </p>
-<img src="/img/habitat/habitat-web.gif">
+<img src="/img/generalization_nli/MNLI_roberta-large.png">
 <hr>
 
-<a name="/graph-parallel"></a>
+<a name="/adaptive"></a>
 <h2 class="pubt">Adaptive Transformers for Learning Multimodal Representations</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava</span><br>
@@ -251,10 +134,10 @@ unmaintained right now.
         <a target="_blank" href="http://slideslive.com/38928637">Presentation Video</a>
     </span>
 </p>
-<img src="/img/ocp/graph_parallel.png">
+<img src="/img/adaptive/alpha.png">
 <hr>
 
-<a name="/spinconv"></a>
+<a name="/detection"></a>
 <h2 class="pubt">On Generalization of Detection Models for Unconstrained Environments</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava</span><br>
@@ -266,87 +149,23 @@ unmaintained right now.
 
     </span>
 </p>
-<img src="/img/ocp/spinconv.jpg">
+<img src="/img/detection/pipeline.png">
 <hr>
 
+<a name="/incremental"></a>
+<h2 class="pubt">Incremental Learning in Person Re-Identification</h2>
+<p class="pubd">
+    <span class="authors">Prajjwal Bhargava</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/1909.13080">Paper</a>
+        <a target="_blank" href="https://github.com/prajjwal1/autonomous-object-detection">Code</a>
+        <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/gen_detection_models_iccvw19.bib">Bibtex</a>
+        <a target="_blank" href="https://docs.google.com/presentation/d/1q6alY-5pRsJ2ys_402dhEOG0pVKk1VElDbegcXFFzoA/edit?usp=drivesdk">Poster</a>
 
-<!-- <a name="/talks"></a> -->
-
-<!-- # Talks -->
-
-<!-- <div class="row"> -->
-    <!-- <div class="col-xs-6"> -->
-        <!-- <p class="talkd"> -->
-            <!-- <img src="/img/talks/visdial_rl_iccv17.jpg"> -->
-        <!-- </p> -->
-    <!-- </div> -->
-    <!-- <div class="col-xs-6"> -->
-        <!-- <p class="talkd"> -->
-            <!-- <img src="/img/talks/embodiedqa_cvpr18_4.jpg"> -->
-        <!-- </p> -->
-    <!-- </div> -->
-<!-- </div> -->
-<!-- <div class="row"> -->
-    <!-- <div class="col-xs-12"> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://slideslive.com/38928261/probing-emergent-semantics-in-predictive-agents-via-question-answering"> -->
-                <!-- ICML 2020: Probing Emergent Semantics in Predictive Agents via Question Answering -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://slideslive.com/38917625/tarmac-targeted-multiagent-communication"> -->
-                <!-- ICML 2019 Imitation, Intent, and Interaction Workshop: -->
-                <!-- Targeted Multi-Agent Communication -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://www.facebook.com/icml.imls/videos/444326646299556/"> -->
-                <!-- ICML 2019 Oral: Targeted Multi-Agent Communication -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://www.youtube.com/watch?v=WxYBp3Xr_Nc"> -->
-                <!-- Allen Institute for Artificial Intelligence: "Towards Agents that can See, Talk, and Act" -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://www.youtube.com/watch?v=xoHvho-YRgs&t=7330"> -->
-                <!-- CoRL 2018 Spotlight: Neural Modular Control for Embodied Question Answering -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://youtu.be/gz2VoDrvX-A?t=1h19m58s"> -->
-                <!-- CVPR 2018 Oral: Embodied Question Answering -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="http://on-demand.gputechconf.com/gtc/2018/video/S8582/"> -->
-                <!-- NVIDIA GTC 2018 -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://www.youtube.com/watch?v=R4hugGnNr7s"> -->
-                <!-- ICCV 2017 Oral: Learning Cooperative Visual Dialog Agents with Deep RL -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://youtu.be/KAlGWMJnWyc?t=26m56s"> -->
-                <!-- Visual Question Answering Challenge Workshop, CVPR 2017 -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="https://www.youtube.com/watch?v=I9OlorMh7wU"> -->
-                <!-- CVPR 2017 Spotlight: Visual Dialog -->
-            <!-- </a> -->
-        <!-- </div> -->
-        <!-- <div class="talkt"> -->
-            <!-- <a target="_blank" href="http://techtalks.tv/talks/towards-transparent-visual-question-answering-systems/63026/"> -->
-                <!-- Visualization for Deep Learning Workshop, ICML 2016 -->
-            <!-- </a> -->
-        <!-- </div> -->
-    <!-- </div> -->
-<!-- </div> -->
-<!-- <hr> -->
+    </span>
+</p>
+<img src="/img/incremental/our_arch.png">
+<hr>
 
 <a name="/projects"></a>
 
