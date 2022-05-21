@@ -100,7 +100,7 @@ unmaintained right now.
         <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib">Bibtex</a>
     </span>
 </p>
-<img src="/img/survey/probe.jpg">
+<img src="/img/survey/probe.png">
 <hr>
 
 <a name="/generalization-nli"></a>
@@ -126,7 +126,7 @@ unmaintained right now.
 <h2 class="pubt">Adaptive Transformers for Learning Multimodal Representations</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava</span><br>
-    <span class="conf">ICLR 2022</span>
+    <span class="conf">ACL SRW 2022</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2005.07486">Paper</a>
         <a target="_blank" href="https://github.com/prajjwal1/adaptive_transformer">Code</a>
@@ -141,12 +141,12 @@ unmaintained right now.
 <h2 class="pubt">On Generalization of Detection Models for Unconstrained Environments</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava</span><br>
+    <span class="conf">ICCV AutoNUE Workshop 2022</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/1909.13080">Paper</a>
         <a target="_blank" href="https://github.com/prajjwal1/autonomous-object-detection">Code</a>
         <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/gen_detection_models_iccvw19.bib">Bibtex</a>
         <a target="_blank" href="https://docs.google.com/presentation/d/1q6alY-5pRsJ2ys_402dhEOG0pVKk1VElDbegcXFFzoA/edit?usp=drivesdk">Poster</a>
-
     </span>
 </p>
 <img src="/img/detection/pipeline.png">
@@ -156,12 +156,12 @@ unmaintained right now.
 <h2 class="pubt">Incremental Learning in Person Re-Identification</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava</span><br>
+    <span class="conf">arXiv preprint</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/1909.13080">Paper</a>
         <a target="_blank" href="https://github.com/prajjwal1/autonomous-object-detection">Code</a>
         <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/gen_detection_models_iccvw19.bib">Bibtex</a>
         <a target="_blank" href="https://docs.google.com/presentation/d/1q6alY-5pRsJ2ys_402dhEOG0pVKk1VElDbegcXFFzoA/edit?usp=drivesdk">Poster</a>
-
     </span>
 </p>
 <img src="/img/incremental/our_arch.png">
