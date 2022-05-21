@@ -187,10 +187,10 @@ unmaintained right now.
 
 <div class="row">
     <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="/posts/open_source">Open source contributions</a></h2>
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="/posts/open-source">Open source contributions</a></h2>
         <p class="talkd">
-            I've made several contributions to [Pytorch](https://github.com/pytorch/pytorch/pulls?q=is%3Apr+author%3Aprajjwal1+is%3Aclosed) and [Huggingface Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aprajjwal1+is%3Aclosed)
-            <a target="_blank" href="/posts/open_source"><img class="project-img" src="/img/projects/hf_pytorch.png"></a>
+                        Contributions to Pytorch Ecosystem
+            <a target="_blank" href="/posts/open-source"><img class="project-img" src="/img/projects/hf_pytorch.png"></a>
         </p>
     </div>
 </div>
@@ -206,8 +206,6 @@ unmaintained right now.
             <a target="_blank" href="https://github.com/prajjwal1/autonomous-object-detection"><img src="/img/projects/baseline_preds.png"></a>
         </p>
     </div>
-</div>
-
 </div>
 
 <script src="/js/jquery.min.js"></script>
