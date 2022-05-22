@@ -190,7 +190,7 @@ unmaintained right now.
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="/posts/open-source/">Open source contributions</a></h2>
         <p class="talkd">
                         Contributions to Pytorch Ecosystem
-            <a target="_blank" href="/posts/open-source/"><img class="project-img" src="/img/projects/hf_pytorch.png"></a>
+            <a target="_blank" href="/open-source"><img class="project-img" src="/img/projects/hf_pytorch.png"></a>
         </p>
     </div>
 </div>
