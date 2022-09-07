@@ -4,7 +4,7 @@ title:      About
 permalink:  /about/
 ---
 
-Redirecting to [abhishekdas.com](//abhishekdas.com).
+Redirecting to [prajjwal1.github.io](https://prajjwal1.github.io).
 
 <script type="text/javascript">
     location.href='/';
