@@ -14,7 +14,7 @@ permalink:  /bookshelf/
     }
 </style>
 
-List of non-fiction books that I've read and would recommend to others.
+List of non-fiction books that I've read. 
 
 
 ### Physical Health
@@ -25,8 +25,12 @@ List of non-fiction books that I've read and would recommend to others.
 - Meditations by Marcus Aurelius
 - Letters to a Stoic by Seneca
 - Discourses by Epictetus
-- Man's search for meaning by Victor
+- Man's search for meaning by Victor Frankle
 - Stoicism and the art of Happiness
+- Longing for Less (Minimalism)
+
+## Autobiography
+- Classic Feynman by Richard Feynman
 
 ### Finance
 - Broke Millenial
@@ -36,7 +40,7 @@ List of non-fiction books that I've read and would recommend to others.
 ### Productivity and Self Help
 - The Subtle Art of not giving a F\*\*\*
 - Atomic Habbits by James Clear
-- Essentialism
+- Essentialism by Greg Mckeown
 
 
 <!-- All of these books are exceptional, for which I consider myself lucky to have read them and to be in the midst of friends who continue to provide a steady stream of recommendations. The ones that truly expanded my thinking at the time of reading are highlighted in blue. -->
