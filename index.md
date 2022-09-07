@@ -20,7 +20,7 @@ permalink:  /
 
 # News
 
-* [Apr 22] I'll be joining Meta AI (formerly FAIR) as an AI Resident at Menlo Park.
+* [Apr 22] I'll be joining Meta AI (FAIR) as an AI Resident at Menlo Park.
 * [Oct 21]  Survey paper has been accepted at AAAI 2022.
 * [Sept 21] Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
 * [Oct 20] Volunteer for Neurips 2020
@@ -47,7 +47,7 @@ permalink:  /
 
 # Bio
 
-I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (FAIR) in the [Conversational AI team](https://ai.facebook.com/research/conversational-ai/) working
+I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (FAIR) in the [Cognitive AI team](https://ai.facebook.com/research/conversational-ai/) working
 under [Chinnadhurai Sankar](https://chinnadhurai.github.io).
 Previously, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under
 [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial
