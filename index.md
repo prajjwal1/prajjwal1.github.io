@@ -19,11 +19,10 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-
+* [Oct 22] Paper accepted at EMNLP 2022. Camera ready draft and code coming soon.
 * [Apr 22] I'll be joining Meta AI (FAIR) as an AI Resident at Menlo Park.
 * [Oct 21]  Survey paper has been accepted at AAAI 2022.
 * [Sept 21] Paper accepted at EMNLP Insights from Negative Results Workshop 2021.
-* [Oct 20] Volunteer for Neurips 2020
 * [Oct 20] Declared winner of Pytorch Global Hackathon 2020 in the responsible AI category
 * [Aug 20] I'll be joining UT Dallas as an MSCS student
 * [June 20] Will serve as a volunteer for [ACL](https://acl2020.org/), Seattle 2020
@@ -49,6 +48,7 @@ permalink:  /
 
 I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (FAIR) in the [Cognitive AI team](https://ai.facebook.com/research/conversational-ai/) working
 under [Chinnadhurai Sankar](https://chinnadhurai.github.io).
+
 Previously, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under
 [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial
 learning (coming soon). My research interests lie in the general area of deep learning and representation learning, especially at the intersection
@@ -72,12 +72,12 @@ create efficient Multi-modal transformer-based architectures. Recently I won
 for my project [Fluence](https://github.com/prajjwal1/fluence). It focuses on addressing the task of language
 understanding responsibly (fairness and computational efficiency).
 
-My recent projects have looked more closely at reasoning.
-[Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in
+My recent projects have looked more closely at reasoning. [Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in
 pre-trained Language Models can be improved from biased data (MNLI -> HANS). My graduate research looked specifically
 at commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://arxiv.org/abs/2201.12438) provides
 a comprehensive look at the strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and
-generation.
+generation. In the [EMNLP 2022]() paper, I propose a new commonsense reasoning task which puts emphasis on reasoning over discourse relations. We show how
+learning representations from Discosense can help improve capabilities of langauge models.
 
 
 I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers.
@@ -87,6 +87,22 @@ unmaintained right now.
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/discosense"></a>
+<h2 class="pubt">DiscoSense: Commonsense Reasoning with Discourse Relations</h2>
+<p class="pubd">
+    <span class="authors">Prajjwal Bhargava and Vincent Ng</span><br>
+    <span class="conf">EMNLP 2022</span>
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="">Paper (Coming soon)</a>
+        <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/aaai-22/survey_poster.pdf">Poster</a>
+        <a target="_blank" href="https://github.com/prajjwal1/commonsense-discourse">Code</a>
+        <!-- <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib">Bibtex</a> -->
+    </span>
+<!-- </p> -->
+<!-- <img src="/img/survey/probe.png"> -->
+<!-- <hr> -->
 
 <a name="/commonsense-survey"></a>
 <h2 class="pubt">Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey</h2>
