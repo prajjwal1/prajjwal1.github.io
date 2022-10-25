@@ -98,7 +98,7 @@ unmaintained right now.
         <a target="_blank" href="https://arxiv.org/pdf/2210.12478.pdf">arXiv</a>
 <!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/emnlp_22/af.png">Poster</a> -->
         <a target="_blank" href="https://github.com/prajjwal1/discosense">Code</a>
-<a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/discosense.bib">Bibtex</a> -->
+<a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/discosense.bib">Bibtex</a>
     </span>
 </p> 
 <img src="/img/emnlp_22/af.png">
