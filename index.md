@@ -95,7 +95,7 @@ unmaintained right now.
     <span class="conf">EMNLP 2022</span>
     <span class="conf"></span>
     <span class="links">
-        <a target="_blank" href="">Paper (Coming soon)</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2210.12478.pdf">arXiv</a>
         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/aaai-22/survey_poster.pdf">Poster</a>
         <a target="_blank" href="https://github.com/prajjwal1/commonsense-discourse">Code</a>
         <!-- <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib">Bibtex</a> -->
