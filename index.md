@@ -96,13 +96,13 @@ unmaintained right now.
     <span class="conf"></span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2210.12478.pdf">arXiv</a>
-        <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/emnlp_22/af.png">Poster</a>
+<!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/emnlp_22/af.png">Poster</a> -->
         <a target="_blank" href="https://github.com/prajjwal1/discosense">Code</a>
-        <!-- <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/commonsense_survey_aaai_22.bib">Bibtex</a> -->
+<a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/discosense.bib">Bibtex</a> -->
     </span>
-<!-- </p> -->
-<!-- <img src="/img/survey/probe.png"> -->
-<!-- <hr> -->
+</p> 
+<img src="/img/emnlp_22/af.png">
+<hr>
 
 <a name="/commonsense-survey"></a>
 <h2 class="pubt">Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey</h2>
