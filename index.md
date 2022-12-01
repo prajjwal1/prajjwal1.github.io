@@ -46,8 +46,7 @@ permalink:  /
 
 # Bio
 
-I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (FAIR) in the [Cognitive AI team](https://ai.facebook.com/research/conversational-ai/) working
-under [Chinnadhurai Sankar](https://chinnadhurai.github.io).
+I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (FAIR) in the [Cognitive AI team](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io), [Rohan Chitnis](https://rohanchitnis.com), [Amy Zhang](https://amyzhang.github.io).
 
 Previously, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under
 [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial
