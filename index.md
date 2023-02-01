@@ -236,12 +236,3 @@ unmaintained right now.
 </script>
 
 ---
-
-[1]: //mlp.cc.gatech.edu
-[2]: ///www.cc.gatech.edu/~dbatra/
-[3]: //www.cc.gatech.edu/~parikh/
-[4]: //www.qbi.uq.edu.au/professor-geoffrey-goodhill
-[5]: //researchers.uq.edu.au/researcher/2490
-[6]: http://cns.qbi.uq.edu.au/
-[7]: //developers.google.com/open-source/gsoc/
-[8]: /posts/summer-of-code/
