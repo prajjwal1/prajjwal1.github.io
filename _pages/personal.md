@@ -1,7 +1,7 @@
 ---
 layout:     page
-title:      Bookshelf
-permalink:  /bookshelf/
+title:      Personal
+permalink:  /personal/
 ---
 
 <style type="text/css">
@@ -13,6 +13,10 @@ permalink:  /bookshelf/
         padding: 0px 23px;
     }
 </style>
+
+
+[Books](/bookshelf) I've read. 
+
 
 List of non-fiction books that I've read. 
 
