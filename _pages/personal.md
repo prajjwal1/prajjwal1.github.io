@@ -37,6 +37,7 @@ List of non-fiction books that I've read.
 
 ## Autobiography
 - Classic Feynman by Richard Feynman
+- Promised Land by Barack Obama (didn't finish this)
 
 ### Finance
 - Broke Millenial
@@ -47,3 +48,11 @@ List of non-fiction books that I've read.
 - The Subtle Art of not giving a F\*\*\* by Mark Manson
 - Atomic Habbits by James Clear
 - Essentialism by Greg Mckeown
+
+
+
+### Fiction
+- Digital Fortress (Dan Brown), read this when I was in ninth grade
+- Grapes of Wrath (John Steinbeck), didn't finish this. 
+- No Plan B (Lee Child and Andrew Child), started reading this during Christmas 22 and finished in the first week of 2023
+- Fairy Tale (Stephen King), currently reading this.
