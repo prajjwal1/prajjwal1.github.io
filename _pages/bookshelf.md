@@ -1,3 +1,19 @@
+---
+layout:     page
+title:      Bookshelf
+permalink:  /personal/books
+---
+
+<style type="text/css">
+    strong {
+        color: #3498db;
+        font-weight: 400;
+    }
+    blockquote {
+        padding: 0px 23px;
+    }
+</style>
+
 
 List of non-fiction books that I've read. 
 
