@@ -15,5 +15,5 @@ permalink:  /personal/
 </style>
 
 
-[Books](/bookshelf) I've read. 
+[Books](/books) I've read. 
 
