@@ -19,6 +19,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+* [Mar 23] New [preprint](https://arxiv.org/abs/2303.06245) on multi-task dialogue model for faster training and inference.
 * [Oct 22] Paper accepted at EMNLP 2022. Camera ready draft and code coming soon.
 * [Apr 22] I'll be joining Meta AI (FAIR) as an AI Resident at Menlo Park.
 * [Oct 21]  Survey paper has been accepted at AAAI 2022.
@@ -89,6 +90,25 @@ unmaintained right now.
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/autodial"></a>
+<h2 class="pubt">DiscoSense: Commonsense Reasoning with Discourse Relations</h2>
+<p class="pubd">
+    <span class="authors">Prajjwal Bhargava, Pooyan Amini, Shahin Shayandeh, Chinnadhurai Sankar </span><br>
+<!--     <span class="conf">EMNLP 2022</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2303.06245">arXiv</a>
+<!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/emnlp_22/af.png">Poster</a> -->
+        <a target="_blank" href="https://github.com/prajjwal1/autodial">Code</a>
+<a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/autodial.bib">Bibtex</a>
+    </span>
+</p> 
+<img src="/img/emnlp_22/autodial.png">
+<hr>
+
+
+
 
 <a name="/discosense"></a>
 <h2 class="pubt">DiscoSense: Commonsense Reasoning with Discourse Relations</h2>
