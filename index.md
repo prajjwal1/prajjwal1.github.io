@@ -92,7 +92,7 @@ unmaintained right now.
 # Publications
 
 <a name="/autodial"></a>
-<h2 class="pubt">DiscoSense: Commonsense Reasoning with Discourse Relations</h2>
+<h2 class="pubt">AUTODIAL: Efficient Asynchronous Task-Oriented Dialogue Model</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava, Pooyan Amini, Shahin Shayandeh, Chinnadhurai Sankar </span><br>
 <!--     <span class="conf">EMNLP 2022</span> -->
@@ -104,7 +104,7 @@ unmaintained right now.
 <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/autodial.bib">Bibtex</a>
     </span>
 </p> 
-<img src="/img/emnlp_22/autodial.png">
+<img src="/img/autodial/autodial.png">
 <hr>
 
 
