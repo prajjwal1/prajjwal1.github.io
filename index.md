@@ -79,13 +79,11 @@ My recent projects have looked more closely at reasoning. [Generalization in NLI
 pre-trained Language Models can be improved from biased data (MNLI -> HANS). My graduate research looked specifically
 at commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://arxiv.org/abs/2201.12438) provides
 a comprehensive look at the strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and
-generation. In the [EMNLP 2022]() paper, I propose a new commonsense reasoning task which puts emphasis on reasoning over discourse relations. We show how
-learning representations from Discosense can help improve capabilities of langauge models.
+generation. In the [EMNLP 2022](https://arxiv.org/abs/2210.12478) paper, I propose a new commonsense reasoning task which puts emphasis on reasoning over discourse relations. We show how learning representations from Discosense can help improve capabilities of langauge models.
 
 
-I created a [Youtube channel](https://youtube.com/c/aijournal) to disseminate technical content from research papers.
-After graduate school, my interest has changed about creating content as a result of which this project is
-unmaintained right now.
+I created a [Youtube channel](https://youtube.com/c/aijournal) long time ago to disseminate technical content from research papers.
+After graduate school, my interests changed about creating content as a result of which this project is unmaintained right now.
 
 <a name="/publications"></a>
 
@@ -117,7 +115,7 @@ unmaintained right now.
     <span class="conf">EMNLP 2022</span>
     <span class="conf"></span>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/pdf/2210.12478.pdf">arXiv</a>
+        <a target="_blank" href="https://arxiv.org/abs/2210.12478">arXiv</a>
 <!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/emnlp_22/af.png">Poster</a> -->
         <a target="_blank" href="https://github.com/prajjwal1/discosense">Code</a>
 <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/discosense.bib">Bibtex</a>
@@ -151,7 +149,7 @@ unmaintained right now.
         <a target="_blank" href="https://github.com/prajjwal1/generalize_lm_nli">Code (Huggingface)</a>
         <a target="_blank" href="https://github.com/vecto-ai/langmo">Code (Pytorch Lightning)</a>
         <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/generalize_lm_nli.bib">Bibtex</a>
-        <a target="_blank" href="https://www.youtube.com/watch?v=ByQu3J6Ji7E">Presentation video</a>
+        <a target="_blank" href="https://aclanthology.org/2021.insights-1.18.mp4">Presentation video</a>
         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/emnlp-21/NLI_Generalization_EMNLP_Poster.pdf">Poster</a>
         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/research/emnlp-21/chinese_room_presentation.pdf">Slides</a>
 
