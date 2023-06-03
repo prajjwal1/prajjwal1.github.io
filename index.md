@@ -10,8 +10,8 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         AI Resident<br>
-        Facebook AI Research<br>
-        prajj at fb dot com
+        Meta AI<br>
+        prajj at meta dot com
     </div>
 </div>
 <hr>
@@ -19,6 +19,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+* [May 23] New [preprint](https://arxiv.org/abs/2305.14550) titled "Sequence Modeling is a robust contender for Offline RL is out".
 * [Mar 23] New [preprint](https://arxiv.org/abs/2303.06245) on multi-task dialogue model for faster training and inference.
 * [Oct 22] Paper accepted at EMNLP 2022. Camera ready draft and code coming soon.
 * [Apr 22] I'll be joining Meta AI (FAIR) as an AI Resident at Menlo Park.
@@ -47,15 +48,15 @@ permalink:  /
 
 # Bio
 
-I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (Reality Labs) in the [Cognitive AI team](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io), [Rohan Chitnis](https://rohanchitnis.com), [Amy Zhang](https://amyzhang.github.io).
+I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (Reality Labs) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research with [Sharan Narang](https://scholar.google.com/citations?user=CWOixywAAAAJ&hl=en). Previously I was in the Cognitive AI team working on Offline RL with [Rohan Chitnis](https://rohanchitnis.com) and [Amy Zhang](https://amyzhang.github.io), and before that I was in [Conversational AI Research](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io) where I worked on multi-task dialogue models.
 
-Previously, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under
-[Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial
-learning (coming soon). My research interests lie in the general area of deep learning and representation learning, especially at the intersection
-of computer vision and language.
+Previously, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial learning (coming soon).
+
+**Large Language Models**
+These days I spend a lot of time thinking about LLMs, emergence, evaluation, scaling, multi-lingual and long context capability. This is my current interest right now.
 
 **Offline Reinforcement Learning**
-This is what I'm currently working on. I am specifically working with Decision Transformer to understand how effective they are for sequential decision making.
+I worked primarily with major paradigms in offline RL and studied DT more closely to determine where each of these paradigms are well suited to be used.
 
 **Vision**
 I have previously worked on numerous domains in computer vision during my internships which includes
@@ -89,6 +90,23 @@ After graduate school, my interests changed about creating content as a result o
 
 # Publications
 
+
+<a name="/seq-model-offline-rl"></a>
+<h2 class="pubt">Sequence Modeling is a Robust Contender for Offline Reinforcement Learning</h2>
+<p class="pubd">
+    <span class="authors">Prajjwal Bhargava, Rohan Chitnis, Alborz Geramifard, Shagun Sodhani, Amy Zhang </span><br>
+<!--     <span class="conf">arXiv 2023</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2305.14550">arXiv</a>
+<!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/seq_model_offline_rl/seq_model_offline_rl.png">Poster</a> -->
+        <a target="_blank" href="https://github.com/prajjwal1/rl_paradigms">Code</a>
+<a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/seq_model_offline_rl.bib">Bibtex</a>
+    </span>
+</p>
+<img src="/img/seq_model_offline_rl/seq_model_offline_rl.png">
+<hr>
+
 <a name="/autodial"></a>
 <h2 class="pubt">AUTODIAL: Efficient Asynchronous Task-Oriented Dialogue Model</h2>
 <p class="pubd">
@@ -101,7 +119,7 @@ After graduate school, my interests changed about creating content as a result o
         <a target="_blank" href="https://github.com/prajjwal1/autodial">Code</a>
 <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/autodial.bib">Bibtex</a>
     </span>
-</p> 
+</p>
 <img src="/img/autodial/autodial.png">
 <hr>
 
@@ -120,7 +138,7 @@ After graduate school, my interests changed about creating content as a result o
         <a target="_blank" href="https://github.com/prajjwal1/discosense">Code</a>
 <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/discosense.bib">Bibtex</a>
     </span>
-</p> 
+</p>
 <img src="/img/emnlp_22/af.png">
 <hr>
 
