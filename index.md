@@ -19,7 +19,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-* [May 23] New [preprint](https://arxiv.org/abs/2305.14550) titled "Sequence Modeling is a robust contender for Offline RL is out".
+* [May 23] New [preprint](https://arxiv.org/abs/2305.14550) titled "Sequence Modeling is a robust contender for Offline RL" is out.
 * [Mar 23] New [preprint](https://arxiv.org/abs/2303.06245) on multi-task dialogue model for faster training and inference.
 * [Oct 22] Paper accepted at EMNLP 2022. Camera ready draft and code coming soon.
 * [Apr 22] I'll be joining Meta AI (FAIR) as an AI Resident at Menlo Park.
@@ -48,48 +48,13 @@ permalink:  /
 
 # Bio
 
-I am an AI Resident at [Meta AI Research](https://ai.facebook.com) (Reality Labs) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research with [Sharan Narang](https://scholar.google.com/citations?user=CWOixywAAAAJ&hl=en). Previously I was in the Cognitive AI team working on Offline RL with [Rohan Chitnis](https://rohanchitnis.com) and [Amy Zhang](https://amyzhang.github.io), and before that I was in [Conversational AI Research](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io) where I worked on multi-task dialogue models.
+I am an AI Resident at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research with [Sharan Narang](https://scholar.google.com/citations?user=CWOixywAAAAJ&hl=en). Specifically I am working on building rigorous evaluation systems for LLMs, improving performance on long context tasks and multilingual capabilities of LLaMA family of models. Previously I was in the Cognitive AI team working with different learning paradigms within Offline RL with [Rohan Chitnis](https://rohanchitnis.com) and [Amy Zhang](https://amyzhang.github.io), and before that I was in [Conversational AI Research](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io) on multi-task dialogue models.
 
-Previously, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My thesis is about improving commonsense reasoning through adversarial learning (coming soon).
-
-**Large Language Models**
-These days I spend a lot of time thinking about LLMs, emergence, evaluation, scaling, multi-lingual and long context capability. This is my current interest right now.
-
-**Offline Reinforcement Learning**
-I worked primarily with major paradigms in offline RL and studied DT more closely to determine where each of these paradigms are well suited to be used.
-
-**Vision**
-I have previously worked on numerous domains in computer vision during my internships which includes
-[Person Re-Identification](https://prajjwal1.github.io/publications/IncrementalPersonReid),
-[Depth Perception and 3D Object Detection](https://www.youtube.com/watch?v=vlDTgj3Kut8). Out of my interests,
-I've worked extensively on visual recognition based tasks and
-[generalization of detection models](https://prajjwal1.github.io/publications/GenDetectionIccvw19).
-I've also written numerous [blog posts](https://prajjwal1.github.io/blog/) about it.
-
-**Language**
-To explore further interests, I've made a transition to NLP especially language understanding and how we can form
-generalized representations which can be harnessed for subsequent downstream tasks. I care about the accessibility
-and impact marked by my research. Specifically, I looked at
-[Adaptive methods](https://prajjwal1.github.io/publications/adaptive_tfmr_acl_srw_2020) and how can they be used to
-create efficient Multi-modal transformer-based architectures. Recently I won
-[Pytorch Global Summer Hackathon](https://pytorch.org/blog/announcing-the-winners-of-the-2020-global-pytorch-summer-hackathon/)
-for my project [Fluence](https://github.com/prajjwal1/fluence). It focuses on addressing the task of language
-understanding responsibly (fairness and computational efficiency).
-
-My recent projects have looked more closely at reasoning. [Generalization in NLI ](https://arxiv.org/abs/2110.01518) project looked at how out-of-domain generalization in
-pre-trained Language Models can be improved from biased data (MNLI -> HANS). My graduate research looked specifically
-at commonsense reasoning within pre-trained Langauge Models. The [AAAI survey](https://arxiv.org/abs/2201.12438) provides
-a comprehensive look at the strengths and weaknesses of state-of-the-art pre-trained models for commonsense reasoning and
-generation. In the [EMNLP 2022](https://arxiv.org/abs/2210.12478) paper, I propose a new commonsense reasoning task which puts emphasis on reasoning over discourse relations. We show how learning representations from Discosense can help improve capabilities of langauge models.
-
-
-I created a [Youtube channel](https://youtube.com/c/aijournal) long time ago to disseminate technical content from research papers.
-After graduate school, my interests changed about creating content as a result of which this project is unmaintained right now.
+I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning.
 
 <a name="/publications"></a>
 
 # Publications
-
 
 <a name="/seq-model-offline-rl"></a>
 <h2 class="pubt">Sequence Modeling is a Robust Contender for Offline Reinforcement Learning</h2>
