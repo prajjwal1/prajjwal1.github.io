@@ -58,6 +58,10 @@ I was a CS graduate student at the University of Texas Dallas where I worked on 
 # Publications
 
 <a name="/llama-v2"></a>
+
+
+<img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/llama.png">
+<hr>
 <h2 class="pubt">Llama 2: Open Foundation and Fine-Tuned Chat Models</h2>
 <p class="pubd">
     <span class="authors">H. Touvron, L. Martin, K. Stone, P. Albert, A. Almahairi, Y. Babaei, N. Bashlykov, S. Batra, <b> P. Bhargava </b>, S. Bhosale, D. Bikel, L. Blecher, C. Ferrer, M. Chen, G. Cucurull, D. Esiobu, J. Fernandes, J. Fu, W. Fu, B. Fuller, C. Gao, V. Goswami, N. Goyal, A. Hartshorn, S. Hosseini, R. Hou, H. Inan, M. Kardas, V. Kerkez, M. Khabsa, I. Kloumann, A. Korenev, P. Koura, M. Lachaux, T. Lavril, J. Lee, D. Liskovich, Y. Lu, Y. Mao, X. Martinet, T. Mihaylov, P. Mishra, I. Molybog, Y. Nie
