@@ -19,6 +19,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+* [Jul 23] [LLaMA v2](https://ai.meta.com/llama/) is out. The best open source LLM. 
 * [May 23] New [preprint](https://arxiv.org/abs/2305.14550) titled "Sequence Modeling is a robust contender for Offline RL" is out.
 * [Mar 23] New [preprint](https://arxiv.org/abs/2303.06245) on multi-task dialogue model for faster training and inference.
 * [Oct 22] Paper accepted at EMNLP 2022. Camera ready draft and code coming soon.
@@ -48,13 +49,38 @@ permalink:  /
 
 # Bio
 
-I am an AI Resident at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research with [Sharan Narang](https://scholar.google.com/citations?user=CWOixywAAAAJ&hl=en). Specifically I am working on building rigorous evaluation systems for LLMs, improving performance on long context tasks and multilingual capabilities of LLaMA family of models. Previously I was in the Cognitive AI team working with different learning paradigms within Offline RL with [Rohan Chitnis](https://rohanchitnis.com) and [Amy Zhang](https://amyzhang.github.io), and before that I was in [Conversational AI Research](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io) on multi-task dialogue models.
+I am an AI Resident at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research with [Sharan Narang](https://scholar.google.com/citations?user=CWOixywAAAAJ&hl=en). I am a co-author of [LLaMA 2](https://ai.meta.com/llama/). Currently involved in improving performance on long context tasks and multilingual capabilities of LLaMA family of models. Previously I was in the Cognitive AI team working with different learning paradigms within Offline RL with [Rohan Chitnis](https://rohanchitnis.com) and [Amy Zhang](https://amyzhang.github.io), and before that I was in [Conversational AI Research](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io) on multi-task dialogue models.
 
 I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning.
 
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/llama-v2"></a>
+<h2 class="pubt">Llama 2: Open Foundation and Fine-Tuned Chat Models</h2>
+<p class="pubd">
+    <span class="authors">Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, **Prajjwal Bhargava**, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian Canton Ferrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, Brian Fuller, Cynthia Gao, Vedanuj Goswami, Naman Goyal
+Anthony Hartshorn, Saghar Hosseini, Rui Hou, Hakan Inan
+Marcin Kardas, Viktor Kerkez, Madian Khabsa, Isabel Kloumann, Artem Korenev, Punit Singh Koura, Marie-Anne Lachaux, Thibaut Lavril, Jenya Lee, Diana Liskovich, Yinghai Lu, Yuning Mao, Xavier Martinet, Todor Mihaylov, Pushkar Mishra, Igor Molybog, Yixin Nie
+Andrew Poulton, Jeremy Reizenstein, Rashi Rungta, Kalyan Saladi, Alan Schelten, Ruan Silva, Eric Michael Smith, Ranjan Subramanian
+Xiaoqing Ellen Tan, Binh Tang, Ross Taylor, Adina Williams, Jian Xiang Kuan, Puxin Xu, Zheng Yan, Iliyan Zarov, Yuchen Zhang, Angela Fan
+Melanie Kambadur, Sharan Narang, Aurelien Rodriguez, Robert Stojnic, Sergey Edunov, Thomas Scialom
+    </span><br>
+<!--     <span class="conf">arXiv 2023</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://scontent.fdel27-1.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX9RYNqm&_nc_ht=scontent.fdel27-1.fna&oh=00_AfBGfzkT1sNcwm_Zy5vT11lUdJWUU7YqAvzQlIPK1ymmdw&oe=64BBB691">Paper</a>
+
+<a target="_blank" href="https://ai.meta.com/llama/">Official Announcement</a>
+
+<!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/seq_model_offline_rl/seq_model_offline_rl.png">Poster</a> -->
+<!--         <a target="_blank" href="https://github.com/prajjwal1/rl_paradigms">Code</a> -->
+<!-- <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/seq_model_offline_rl.bib">Bibtex</a> -->
+</span>
+</p>
+<img src="/img/seq_model_offline_rl/seq_model_offline_rl.png">
+<hr>
 
 <a name="/seq-model-offline-rl"></a>
 <h2 class="pubt">Sequence Modeling is a Robust Contender for Offline Reinforcement Learning</h2>
