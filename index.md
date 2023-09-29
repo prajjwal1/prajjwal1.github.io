@@ -28,6 +28,22 @@ I was a CS graduate student at the University of Texas Dallas where I worked on 
 
 # Publications
 
+
+<img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/img/scaling_llama_cl.png">
+<hr>
+<h2 class="pubt">Effective Long-Context Scaling of Foundation Models</h2>
+<p class="pubd">
+    <span class="authors">W. Xiong, J. Liu, I. Molybog, H. Zhang, <b> P. Bhargava </b>, R. Hou, L. Martin, R. Rungta, K. Sankararaman, B. Oguz, M. Khabsa, H. Fang, Y. Mehdad, S. Narang, K. Malik, A. Fan, S. Bhosale, S. Edunov, M. Lewis, S. Wang, H. Ma
+    </span><br>
+<!--     <span class="conf">arXiv 2023</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2309.16039">Paper</a>
+</span>
+</p>
+
+
+
 <a name="/llama-v2"></a>
 
 
@@ -43,12 +59,13 @@ M. Kambadur, S. Narang, A. Rodriguez, R. Stojnic, S. Edunov, T. Scialom
 <!--     <span class="conf">arXiv 2023</span> -->
     <span class="conf"></span>
     <span class="links">
-        <a target="_blank" href="https://scontent.fdel27-1.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX9RYNqm&_nc_ht=scontent.fdel27-1.fna&oh=00_AfBGfzkT1sNcwm_Zy5vT11lUdJWUU7YqAvzQlIPK1ymmdw&oe=64BBB691">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2307.09288">Paper</a>
 
 <a target="_blank" href="https://ai.meta.com/llama/">Official Announcement</a>
+<a target="_blank" href="https://github.com/facebookresearch/llama">Code</a>
 
 <!--         <a target="_blank" href="https://github.com/prajjwal1/prajjwal1.github.io/raw/master/img/seq_model_offline_rl/seq_model_offline_rl.png">Poster</a> -->
-<!--         <a target="_blank" href="https://github.com/prajjwal1/rl_paradigms">Code</a> -->
+
 <!-- <a target="_blank" href="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/bibtex/seq_model_offline_rl.bib">Bibtex</a> -->
 </span>
 </p>
