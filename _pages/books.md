@@ -15,14 +15,13 @@ permalink:  /personal/books
 </style>
 
 
-List of non-fiction books that I've read. 
+List of books that I've read. 
 
-
-### Physical Health
+### Health
 - Lifespan by David Sinclair
 - How Not to Die by Michael Gregory
 
-### Philosophy and Therapy
+### Philosophy 
 - Meditations by Marcus Aurelius
 - Letters to a Stoic by Seneca
 - Discourses by Epictetus
@@ -30,7 +29,7 @@ List of non-fiction books that I've read.
 - Stoicism and the art of Happiness
 - Longing for Less (Minimalism)
 - The courage to be disliked
-- Why has nobody told me this before by Julie Smith
+
 
 ## Autobiography
 - Classic Feynman by Richard Feynman
@@ -45,11 +44,18 @@ List of non-fiction books that I've read.
 - The Subtle Art of not giving a F\*\*\* by Mark Manson
 - Atomic Habbits by James Clear
 - Essentialism by Greg Mckeown
-
-
+- Why has nobody told me this before by Julie Smith
 
 ### Fiction
-- Digital Fortress (Dan Brown), read this when I was in ninth grade
+- Digital Fortress (Dan Brown)
 - Grapes of Wrath (John Steinbeck), didn't finish this. 
 - No Plan B (Lee Child and Andrew Child), started reading this during Christmas 22 and finished in the first week of 2023
-- Fairy Tale (Stephen King), currently reading this.
+- Fairy Tale (Stephen King), currently reading this. Stopped it after nearly ~200 pages.
+- Tomorrow, Tomorrow and Tomorrow by Gabrielle Zevin
+- Recursion
+- Origins by Dan Brown
+- Song of Achilles (paused after ~200 pages)
+- Sharp Objects by Gillian Flynn (reading currently)
+
+### Politics
+- The last election by Andrew Yang (reading currently)
