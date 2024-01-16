@@ -76,6 +76,7 @@ M. Kambadur, S. Narang, A. Rodriguez, R. Stojnic, S. Edunov, T. Scialom
 <h2 class="pubt">Sequence Modeling is a Robust Contender for Offline Reinforcement Learning</h2>
 <p class="pubd">
     <span class="authors">Prajjwal Bhargava, Rohan Chitnis, Alborz Geramifard, Shagun Sodhani, Amy Zhang </span><br>
+        <span class="conf">International Conference on Learning Representations (ICLR) 2022 </span>
 <!--     <span class="conf">arXiv 2023</span> -->
     <span class="conf"></span>
     <span class="links">
