@@ -20,14 +20,25 @@ permalink:  /
 
 # Bio
 
-I am an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research with [Sharan Narang](https://scholar.google.com/citations?user=CWOixywAAAAJ&hl=en) and many other folks. I am a co-author of [LLaMA 2](https://ai.meta.com/llama/) and [LLaMA 2 Long](https://arxiv.org/abs/2309.16039). Currently involved in evaluations research, dense scaling, long context modeling, multilingual efforts. Previously I was in the Cognitive AI team working with different learning paradigms within Offline Reinforcement Learning with [Rohan Chitnis](https://rohanchitnis.com) and [Amy Zhang](https://amyzhang.github.io), and before that I was in [Conversational AI Research](https://ai.facebook.com/research/conversational-ai/) working with [Chinnadhurai Sankar](https://chinnadhurai.github.io) on multi-task dialogue models. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl)
+I am an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on LLM Research (frontier models). I am a core contributor of [LLaMA 3] (https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039). Previously I was an AI Resident within Reality Labs/FAIR working on offline RL. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl)
 
 I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning.
 
 <a name="/publications"></a>
 
 # Publications
-
+<img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/img/llama_3.png">
+<hr>
+<h2 class="pubt">The LLaMA 3 herd of models</h2>
+<p class="pubd">
+    <span class="authors">Generative AI, Meta
+    </span><br>
+<!--     <span class="conf">arXiv 2023</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/">Paper</a>
+</span>
+</p>
 
 <img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/img/scaling_llama_cl.png">
 <hr>
