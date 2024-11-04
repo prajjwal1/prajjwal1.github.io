@@ -20,7 +20,7 @@ permalink:  /
 
 # Bio
 
-I am an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on building foundational models, next generation of LLaMA models. I was a core contributor of [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering [meta.ai](https://meta.ai). Previously I was an AI Resident within Reality Labs/FAIR working on offline RL. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
+I'm Praj, I work as an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on building foundational models, next generation of LLaMA models. I was a core contributor of [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering [meta.ai](https://meta.ai). Previously I was an AI Resident within Reality Labs/FAIR working on offline RL. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
 
 Prior to Meta, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning. 
 
