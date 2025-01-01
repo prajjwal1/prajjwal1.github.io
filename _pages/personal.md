@@ -14,6 +14,10 @@ permalink:  /personal/
     }
 </style>
 
+# Blogs
+- [Why age reversal is a better fitness goal](/personal/blogs/age_reversal_fitness.md)
+- [Reflections on 2024](/personal/blogs/2024_reflections.md)
+
 ### On Influences
 My thinking has been greatly been influenced by Sam Harris in the past few years. All the conversations on existentialism, meaning, meditations, rationality, morality, free-will to climate change, AI, political beliefs and many more from Making Sense, Waking up and other podcasts have expanded my curiosity and viewpoints on fundamentals of life.
 It has made me lot more contemplative about our state of the world and our presence in it. Ruminating on the contents allows me to break these esoteric and complex ideas into everyday conversations. 
