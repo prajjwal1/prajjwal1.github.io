@@ -16,8 +16,8 @@ permalink:  /personal/
 
 # Blogs
 
-<li><a href="/personal/blog/age_reversal_fitness.md">Why age reversal is a better fitness goal</a></li>
-<li><a href="/personal/blog/2024_reflections.md">Reflections on 2024</a></li>
+<li><a href="/blog/age_reversal_fitness.md">Why age reversal is a better fitness goal</a></li>
+<li><a href="/blog/2024_reflections.md">Reflections on 2024</a></li>
 
 
 ### On Influences
