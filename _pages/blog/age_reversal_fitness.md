@@ -1,3 +1,19 @@
+---
+layout:     page
+title:      Why age reversal is a better fitness goal ?
+permalink:  /personal/blog/age_reversal_fitness
+---
+
+<style type="text/css">
+    strong {
+        color: #3498db;
+        font-weight: 400;
+    }
+    blockquote {
+        padding: 0px 23px;
+    }
+</style>
+
 To say that I’ve spent the last few years thinking obsessively about aging would be an understatement. Before consciousness can even emerge, the clock starts to tick. And it isn’t just you, but everyone around us, people we care about, and the people who brought us into this world. If you’re observant enough, you can already start to see glimmers of how they have changed over the years, and once you begin to witness wrinkles, hair falling off, and joint pains, it all gets too real. Whatever we once possessed will be someone else’s. But what if, we can alter this a tiny bit right now? What if we can reverse the aging damage we have incurred over our lifetimes? What would that future look like? The following article aims to incite a spark within you of how becoming curious about aging and executing it can change your life for the better. Once the inception happens, you’ll start to see the world differently and there won’t be any coming back.
 
 While natural selection has made us who we are, sophisticated beings that can question their existence and even defy the intents baked within us by genes (for people not wanting to have kids), and we can outsmart all creatures, the process is not perfect. Something tells our cells what they are supposed to be and that something is epigenetic information. This epigenetic regulation is performed by numerous complex mechanisms such as DNA methylation, RNA interference, etc. As days go by, there is a loss of this regulatory information leading to the accumulation of epigenetic noise, cells becoming worse at what they do and cells getting activated when they shouldn’t have. Our cells start to lose the identity they once had leading to senescence within organisms; however epigenetic dysregulation is reversible. Evolution is willing to accommodate epigenetic damage as long as the organism can reproduce.
