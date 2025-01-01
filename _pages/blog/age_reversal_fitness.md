@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Why age reversal is a better fitness goal ?
-permalink:  /personal/blog/age_reversal_fitness
+permalink:  /blog/age_reversal_fitness
 ---
 
 <style type="text/css">
