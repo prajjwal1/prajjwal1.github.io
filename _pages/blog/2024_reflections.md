@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Reflecting on 2024
-permalink:  /personal/blog/2024_reflections
+permalink:  /blog/2024_reflections
 ---
 
 <style type="text/css">
