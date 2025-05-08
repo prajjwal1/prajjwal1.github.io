@@ -20,13 +20,26 @@ permalink:  /
 
 # Bio
 
-I'm Praj, I work as an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on building foundational models, next generation of LLaMA models. I am a core contributor of [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering Meta's flagship AI assistant [meta.ai](https://meta.ai). Previously I worked as an AI Resident within [Reality Labs](https://about.meta.com/realitylabs/) and [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) working on Offline Reinforcement Learning. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
+I'm Praj, I work as an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on building foundational models, next generation of LLaMA models. I am a core contributor of [LLaMA 4](https://llama.meta.com), [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering Meta's flagship AI assistant [meta.ai](https://meta.ai). My primary focus for LLaMA 4 was improving long context capabilities (modeling and pre-training infra). LLaMA 4 can attend to 10M tokens long documents. Previously I worked as an AI Resident within [Reality Labs](https://about.meta.com/realitylabs/) and [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) at Meta working on Offline Reinforcement Learning. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
 
 Prior to Meta, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning. 
 
 <a name="/publications"></a>
 
 # Publications
+<img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/img/llama_4.png">
+<hr>
+<h2 class="pubt">The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation</h2>
+<p class="pubd">
+    <span class="authors">Generative AI, Meta
+    </span><br>
+<!--     <span class="conf">arXiv 2023</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/">Paper</a>
+</span>
+</p>
+
 <img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/img/llama_3.png">
 <hr>
 <h2 class="pubt">The LLaMA 3 herd of models</h2>
@@ -36,7 +49,7 @@ Prior to Meta, I was a CS graduate student at the University of Texas Dallas whe
 <!--     <span class="conf">arXiv 2023</span> -->
     <span class="conf"></span>
     <span class="links">
-        <a target="_blank" href="https://ai.meta.com/research/publications/the-llama-3-herd-of-models/">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2407.21783">Paper</a>
 </span>
 </p>
 
