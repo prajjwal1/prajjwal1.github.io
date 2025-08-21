@@ -10,7 +10,7 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Research Engineer<br>
-        Meta AI<br>
+        Meta Superintelligence Labs<br>
         prajj at meta dot com
     </div>
 </div>
@@ -20,7 +20,7 @@ permalink:  /
 
 # Bio
 
-I'm Praj, I work as an AI Researcher at [Meta AI](https://ai.facebook.com) in the [Generative AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) team working on building foundational models, next generation of LLaMA models. I am a core contributor of [LLaMA 4](https://llama.meta.com), [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering Meta's flagship AI assistant [meta.ai](https://meta.ai). My primary focus for LLaMA 4 was improving long context capabilities (modeling and pre-training infra). LLaMA 4 can attend to 10M tokens long documents. Previously I worked as an AI Resident within [Reality Labs](https://about.meta.com/realitylabs/) and [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) at Meta working on Offline Reinforcement Learning. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
+I'm Praj, I work as an AI Researcher at [Meta Superintelligence Labs](https://ai.facebook.com) working on building foundational models(https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), next generation of LLaMA models. I am a core contributor of [LLaMA 4](https://llama.meta.com), [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering Meta's flagship AI assistant [meta.ai](https://meta.ai). My primary focus for LLaMA 4 was improving long context capabilities (modeling and pre-training infra). LLaMA 4 can attend to 10M tokens long documents. Previously I worked as an AI Resident within [Reality Labs](https://about.meta.com/realitylabs/) and [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) at Meta working on Offline Reinforcement Learning. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
 
 Prior to Meta, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning. 
 
