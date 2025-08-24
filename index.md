@@ -20,13 +20,25 @@ permalink:  /
 
 # Bio
 
-I'm Praj, I work as an AI Researcher at [Meta Superintelligence Labs](https://ai.facebook.com) working on building [foundational models](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), next generation of LLaMA models. I am a core contributor of [LLaMA 4](https://llama.meta.com), [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering Meta's flagship AI assistant [meta.ai](https://meta.ai). My primary focus has been on fundamental research and infra around it. I was responsble for building long context capabilites for LLaMA 4 both on modeling and pre-training infra / inference. LLaMA 4 can attend to documents exceeding 10M tokens. Previously I worked as an AI Resident within [Reality Labs](https://about.meta.com/realitylabs/) and [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) at Meta working on Offline Reinforcement Learning. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
+I'm Praj, I work as an AI Researcher at [Meta Superintelligence Labs](https://ai.facebook.com) working on building [foundational models](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/). I am a core contributor of [LLaMA 4](https://llama.meta.com), [LLaMA 3](https://llama.meta.com) [LLaMA 2](https://ai.meta.com/llama/), [LLaMA 2 Long](https://arxiv.org/abs/2309.16039), powering Meta's flagship AI assistant [meta.ai](https://meta.ai). My primary focus has been on fundamental pre-training research and infra around it. One of my primary contributions include building long context capabilites for LLaMA 4 both on modeling and pre-training infra / inference. LLaMA 4 can attend to documents exceeding 10M tokens. Previously I worked as an AI Resident within [Reality Labs](https://about.meta.com/realitylabs/) and [Fundamental AI Research (FAIR)](https://ai.meta.com/research/) at Meta working on Offline Reinforcement Learning. My google scholar can be found [here](https://scholar.google.com/citations?user=zTq103EAAAAJ&hl).
 
 Prior to Meta, I was a CS graduate student at the University of Texas Dallas where I worked on commonsense reasoning under the supervision of [Prof. Vincent Ng](http://www.hlt.utdallas.edu/~vince/). My [thesis](https://libtreasures.utdallas.edu/handle/10735.1/9511) is about improving commonsense reasoning through adversarial learning. 
 
 <a name="/publications"></a>
 
 # Publications
+
+<hr>
+<h2 class="pubt">BTS: Harmonizing Specialized Experts into a Generalist LLM</h2>
+<p class="pubd">
+    <span class="authors">Qizhen Zhang, Prajjwal Bhargava, Chloe Bi, Chris X. Cai, Jakob Foerster, Jeremy Fu, Punit Singh Koura, Ruan Silva, Sheng Shen, Emily Dinan, Suchin Gururangan, Mike Lewis
+    </span><br>
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2502.00075">Paper</a>
+</span>
+</p>
+
 <img src="https://raw.githubusercontent.com/prajjwal1/prajjwal1.github.io/master/img/llama_4.png">
 <hr>
 <h2 class="pubt">The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation</h2>
@@ -50,6 +62,18 @@ Prior to Meta, I was a CS graduate student at the University of Texas Dallas whe
     <span class="conf"></span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2407.21783">Paper</a>
+</span>
+</p>
+
+<hr>
+<h2 class="pubt">Correlating and Predicting Human Evaluations of Language Models from NLP Benchmarks</h2>
+<p class="pubd">
+    <span class="authors">Rylan Schaeffer, Punit Singh Koura, Binh Tang, Ranjan Subramanian, Aaditya K Singh, Todor Mihaylov, Prajjwal Bhargava, Lovish Madaan, Niladri S. Chatterji, Vedanuj Goswami, Sergey Edunov, Dieuwke Hupkes, Sanmi Koyejo, Sharan Narang
+    </span><br>
+<!--     <span class="conf">arXiv 2023</span> -->
+    <span class="conf"></span>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2502.18339">Paper</a>
 </span>
 </p>
 
